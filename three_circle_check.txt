@@ -1,0 +1,1392 @@
+X=140, Y= 71, crit=-39, vga_plot=1
+X=100, Y=111, crit=-39, vga_plot=1
+X= 60, Y= 71, crit=-39, vga_plot=1
+X=100, Y=111, crit=-39, vga_plot=1
+X= 60, Y= 71, crit=-39, vga_plot=1
+X=100, Y= 31, crit=-39, vga_plot=1
+X=140, Y= 71, crit=-39, vga_plot=1
+X=100, Y= 31, crit=-39, vga_plot=1
+X=140, Y= 72, crit=-36, vga_plot=1
+X=101, Y=111, crit=-36, vga_plot=1
+X= 60, Y= 72, crit=-36, vga_plot=1
+X= 99, Y=111, crit=-36, vga_plot=1
+X= 60, Y= 70, crit=-36, vga_plot=1
+X= 99, Y= 31, crit=-36, vga_plot=1
+X=140, Y= 70, crit=-36, vga_plot=1
+X=101, Y= 31, crit=-36, vga_plot=1
+X=140, Y= 73, crit=-31, vga_plot=1
+X=102, Y=111, crit=-31, vga_plot=1
+X= 60, Y= 73, crit=-31, vga_plot=1
+X= 98, Y=111, crit=-31, vga_plot=1
+X= 60, Y= 69, crit=-31, vga_plot=1
+X= 98, Y= 31, crit=-31, vga_plot=1
+X=140, Y= 69, crit=-31, vga_plot=1
+X=102, Y= 31, crit=-31, vga_plot=1
+X=140, Y= 74, crit=-24, vga_plot=1
+X=103, Y=111, crit=-24, vga_plot=1
+X= 60, Y= 74, crit=-24, vga_plot=1
+X= 97, Y=111, crit=-24, vga_plot=1
+X= 60, Y= 68, crit=-24, vga_plot=1
+X= 97, Y= 31, crit=-24, vga_plot=1
+X=140, Y= 68, crit=-24, vga_plot=1
+X=103, Y= 31, crit=-24, vga_plot=1
+X=140, Y= 75, crit=-15, vga_plot=1
+X=104, Y=111, crit=-15, vga_plot=1
+X= 60, Y= 75, crit=-15, vga_plot=1
+X= 96, Y=111, crit=-15, vga_plot=1
+X= 60, Y= 67, crit=-15, vga_plot=1
+X= 96, Y= 31, crit=-15, vga_plot=1
+X=140, Y= 67, crit=-15, vga_plot=1
+X=104, Y= 31, crit=-15, vga_plot=1
+X=140, Y= 76, crit= -4, vga_plot=1
+X=105, Y=111, crit= -4, vga_plot=1
+X= 60, Y= 76, crit= -4, vga_plot=1
+X= 95, Y=111, crit= -4, vga_plot=1
+X= 60, Y= 66, crit= -4, vga_plot=1
+X= 95, Y= 31, crit= -4, vga_plot=1
+X=140, Y= 66, crit= -4, vga_plot=1
+X=105, Y= 31, crit= -4, vga_plot=1
+X=140, Y= 77, crit=  9, vga_plot=1
+X=106, Y=111, crit=  9, vga_plot=1
+X= 60, Y= 77, crit=  9, vga_plot=1
+X= 94, Y=111, crit=  9, vga_plot=1
+X= 60, Y= 65, crit=  9, vga_plot=1
+X= 94, Y= 31, crit=  9, vga_plot=1
+X=140, Y= 65, crit=  9, vga_plot=1
+X=106, Y= 31, crit=  9, vga_plot=1
+X=139, Y= 78, crit=-54, vga_plot=1
+X=107, Y=110, crit=-54, vga_plot=1
+X= 61, Y= 78, crit=-54, vga_plot=1
+X= 93, Y=110, crit=-54, vga_plot=1
+X= 61, Y= 64, crit=-54, vga_plot=1
+X= 93, Y= 32, crit=-54, vga_plot=1
+X=139, Y= 64, crit=-54, vga_plot=1
+X=107, Y= 32, crit=-54, vga_plot=1
+X=139, Y= 79, crit=-37, vga_plot=1
+X=108, Y=110, crit=-37, vga_plot=1
+X= 61, Y= 79, crit=-37, vga_plot=1
+X= 92, Y=110, crit=-37, vga_plot=1
+X= 61, Y= 63, crit=-37, vga_plot=1
+X= 92, Y= 32, crit=-37, vga_plot=1
+X=139, Y= 63, crit=-37, vga_plot=1
+X=108, Y= 32, crit=-37, vga_plot=1
+X=139, Y= 80, crit=-18, vga_plot=1
+X=109, Y=110, crit=-18, vga_plot=1
+X= 61, Y= 80, crit=-18, vga_plot=1
+X= 91, Y=110, crit=-18, vga_plot=1
+X= 61, Y= 62, crit=-18, vga_plot=1
+X= 91, Y= 32, crit=-18, vga_plot=1
+X=139, Y= 62, crit=-18, vga_plot=1
+X=109, Y= 32, crit=-18, vga_plot=1
+X=139, Y= 81, crit=  3, vga_plot=1
+X=110, Y=110, crit=  3, vga_plot=1
+X= 61, Y= 81, crit=  3, vga_plot=1
+X= 90, Y=110, crit=  3, vga_plot=1
+X= 61, Y= 61, crit=  3, vga_plot=1
+X= 90, Y= 32, crit=  3, vga_plot=1
+X=139, Y= 61, crit=  3, vga_plot=1
+X=110, Y= 32, crit=  3, vga_plot=1
+X=138, Y= 82, crit=-50, vga_plot=1
+X=111, Y=109, crit=-50, vga_plot=1
+X= 62, Y= 82, crit=-50, vga_plot=1
+X= 89, Y=109, crit=-50, vga_plot=1
+X= 62, Y= 60, crit=-50, vga_plot=1
+X= 89, Y= 33, crit=-50, vga_plot=1
+X=138, Y= 60, crit=-50, vga_plot=1
+X=111, Y= 33, crit=-50, vga_plot=1
+X=138, Y= 83, crit=-25, vga_plot=1
+X=112, Y=109, crit=-25, vga_plot=1
+X= 62, Y= 83, crit=-25, vga_plot=1
+X= 88, Y=109, crit=-25, vga_plot=1
+X= 62, Y= 59, crit=-25, vga_plot=1
+X= 88, Y= 33, crit=-25, vga_plot=1
+X=138, Y= 59, crit=-25, vga_plot=1
+X=112, Y= 33, crit=-25, vga_plot=1
+X=138, Y= 84, crit=  2, vga_plot=1
+X=113, Y=109, crit=  2, vga_plot=1
+X= 62, Y= 84, crit=  2, vga_plot=1
+X= 87, Y=109, crit=  2, vga_plot=1
+X= 62, Y= 58, crit=  2, vga_plot=1
+X= 87, Y= 33, crit=  2, vga_plot=1
+X=138, Y= 58, crit=  2, vga_plot=1
+X=113, Y= 33, crit=  2, vga_plot=1
+X=137, Y= 85, crit=-43, vga_plot=1
+X=114, Y=108, crit=-43, vga_plot=1
+X= 63, Y= 85, crit=-43, vga_plot=1
+X= 86, Y=108, crit=-43, vga_plot=1
+X= 63, Y= 57, crit=-43, vga_plot=1
+X= 86, Y= 34, crit=-43, vga_plot=1
+X=137, Y= 57, crit=-43, vga_plot=1
+X=114, Y= 34, crit=-43, vga_plot=1
+X=137, Y= 86, crit=-12, vga_plot=1
+X=115, Y=108, crit=-12, vga_plot=1
+X= 63, Y= 86, crit=-12, vga_plot=1
+X= 85, Y=108, crit=-12, vga_plot=1
+X= 63, Y= 56, crit=-12, vga_plot=1
+X= 85, Y= 34, crit=-12, vga_plot=1
+X=137, Y= 56, crit=-12, vga_plot=1
+X=115, Y= 34, crit=-12, vga_plot=1
+X=137, Y= 87, crit= 21, vga_plot=1
+X=116, Y=108, crit= 21, vga_plot=1
+X= 63, Y= 87, crit= 21, vga_plot=1
+X= 84, Y=108, crit= 21, vga_plot=1
+X= 63, Y= 55, crit= 21, vga_plot=1
+X= 84, Y= 34, crit= 21, vga_plot=1
+X=137, Y= 55, crit= 21, vga_plot=1
+X=116, Y= 34, crit= 21, vga_plot=1
+X=136, Y= 88, crit=-16, vga_plot=1
+X=117, Y=107, crit=-16, vga_plot=1
+X= 64, Y= 88, crit=-16, vga_plot=1
+X= 83, Y=107, crit=-16, vga_plot=1
+X= 64, Y= 54, crit=-16, vga_plot=1
+X= 83, Y= 35, crit=-16, vga_plot=1
+X=136, Y= 54, crit=-16, vga_plot=1
+X=117, Y= 35, crit=-16, vga_plot=1
+X=136, Y= 89, crit= 21, vga_plot=1
+X=118, Y=107, crit= 21, vga_plot=1
+X= 64, Y= 89, crit= 21, vga_plot=1
+X= 82, Y=107, crit= 21, vga_plot=1
+X= 64, Y= 53, crit= 21, vga_plot=1
+X= 82, Y= 35, crit= 21, vga_plot=1
+X=136, Y= 53, crit= 21, vga_plot=1
+X=118, Y= 35, crit= 21, vga_plot=1
+X=135, Y= 90, crit=-10, vga_plot=1
+X=119, Y=106, crit=-10, vga_plot=1
+X= 65, Y= 90, crit=-10, vga_plot=1
+X= 81, Y=106, crit=-10, vga_plot=1
+X= 65, Y= 52, crit=-10, vga_plot=1
+X= 81, Y= 36, crit=-10, vga_plot=1
+X=135, Y= 52, crit=-10, vga_plot=1
+X=119, Y= 36, crit=-10, vga_plot=1
+X=135, Y= 91, crit= 31, vga_plot=1
+X=120, Y=106, crit= 31, vga_plot=1
+X= 65, Y= 91, crit= 31, vga_plot=1
+X= 80, Y=106, crit= 31, vga_plot=1
+X= 65, Y= 51, crit= 31, vga_plot=1
+X= 80, Y= 36, crit= 31, vga_plot=1
+X=135, Y= 51, crit= 31, vga_plot=1
+X=120, Y= 36, crit= 31, vga_plot=1
+X=134, Y= 92, crit=  6, vga_plot=1
+X=121, Y=105, crit=  6, vga_plot=1
+X= 66, Y= 92, crit=  6, vga_plot=1
+X= 79, Y=105, crit=  6, vga_plot=1
+X= 66, Y= 50, crit=  6, vga_plot=1
+X= 79, Y= 37, crit=  6, vga_plot=1
+X=134, Y= 50, crit=  6, vga_plot=1
+X=121, Y= 37, crit=  6, vga_plot=1
+X=133, Y= 93, crit=-15, vga_plot=1
+X=122, Y=104, crit=-15, vga_plot=1
+X= 67, Y= 93, crit=-15, vga_plot=1
+X= 78, Y=104, crit=-15, vga_plot=1
+X= 67, Y= 49, crit=-15, vga_plot=1
+X= 78, Y= 38, crit=-15, vga_plot=1
+X=133, Y= 49, crit=-15, vga_plot=1
+X=122, Y= 38, crit=-15, vga_plot=1
+X=133, Y= 94, crit= 32, vga_plot=1
+X=123, Y=104, crit= 32, vga_plot=1
+X= 67, Y= 94, crit= 32, vga_plot=1
+X= 77, Y=104, crit= 32, vga_plot=1
+X= 67, Y= 48, crit= 32, vga_plot=1
+X= 77, Y= 38, crit= 32, vga_plot=1
+X=133, Y= 48, crit= 32, vga_plot=1
+X=123, Y= 38, crit= 32, vga_plot=1
+X=132, Y= 95, crit= 17, vga_plot=1
+X=124, Y=103, crit= 17, vga_plot=1
+X= 68, Y= 95, crit= 17, vga_plot=1
+X= 76, Y=103, crit= 17, vga_plot=1
+X= 68, Y= 47, crit= 17, vga_plot=1
+X= 76, Y= 39, crit= 17, vga_plot=1
+X=132, Y= 47, crit= 17, vga_plot=1
+X=124, Y= 39, crit= 17, vga_plot=1
+X=131, Y= 96, crit=  6, vga_plot=1
+X=125, Y=102, crit=  6, vga_plot=1
+X= 69, Y= 96, crit=  6, vga_plot=1
+X= 75, Y=102, crit=  6, vga_plot=1
+X= 69, Y= 46, crit=  6, vga_plot=1
+X= 75, Y= 40, crit=  6, vga_plot=1
+X=131, Y= 46, crit=  6, vga_plot=1
+X=125, Y= 40, crit=  6, vga_plot=1
+X=130, Y= 97, crit= -1, vga_plot=1
+X=126, Y=101, crit= -1, vga_plot=1
+X= 70, Y= 97, crit= -1, vga_plot=1
+X= 74, Y=101, crit= -1, vga_plot=1
+X= 70, Y= 45, crit= -1, vga_plot=1
+X= 74, Y= 41, crit= -1, vga_plot=1
+X=130, Y= 45, crit= -1, vga_plot=1
+X=126, Y= 41, crit= -1, vga_plot=1
+X=130, Y= 98, crit= 54, vga_plot=1
+X=127, Y=101, crit= 54, vga_plot=1
+X= 70, Y= 98, crit= 54, vga_plot=1
+X= 73, Y=101, crit= 54, vga_plot=1
+X= 70, Y= 44, crit= 54, vga_plot=1
+X= 73, Y= 41, crit= 54, vga_plot=1
+X=130, Y= 44, crit= 54, vga_plot=1
+X=127, Y= 41, crit= 54, vga_plot=1
+X=129, Y= 99, crit= 53, vga_plot=1
+X=128, Y=100, crit= 53, vga_plot=1
+X= 71, Y= 99, crit= 53, vga_plot=1
+X= 72, Y=100, crit= 53, vga_plot=1
+X= 71, Y= 43, crit= 53, vga_plot=1
+X= 72, Y= 42, crit= 53, vga_plot=1
+X=129, Y= 43, crit= 53, vga_plot=1
+X=128, Y= 42, crit= 53, vga_plot=1
+X=100, Y= 71, crit=-39, vga_plot=1
+X= 60, Y=111, crit=-39, vga_plot=1
+X= 20, Y= 71, crit=-39, vga_plot=1
+X= 60, Y=111, crit=-39, vga_plot=1
+X= 20, Y= 71, crit=-39, vga_plot=1
+X= 60, Y= 31, crit=-39, vga_plot=1
+X=100, Y= 71, crit=-39, vga_plot=1
+X= 60, Y= 31, crit=-39, vga_plot=1
+X=100, Y= 72, crit=-36, vga_plot=1
+X= 61, Y=111, crit=-36, vga_plot=1
+X= 20, Y= 72, crit=-36, vga_plot=1
+X= 59, Y=111, crit=-36, vga_plot=1
+X= 20, Y= 70, crit=-36, vga_plot=1
+X= 59, Y= 31, crit=-36, vga_plot=1
+X=100, Y= 70, crit=-36, vga_plot=1
+X= 61, Y= 31, crit=-36, vga_plot=1
+X=100, Y= 73, crit=-31, vga_plot=1
+X= 62, Y=111, crit=-31, vga_plot=1
+X= 20, Y= 73, crit=-31, vga_plot=1
+X= 58, Y=111, crit=-31, vga_plot=1
+X= 20, Y= 69, crit=-31, vga_plot=1
+X= 58, Y= 31, crit=-31, vga_plot=1
+X=100, Y= 69, crit=-31, vga_plot=1
+X= 62, Y= 31, crit=-31, vga_plot=1
+X=100, Y= 74, crit=-24, vga_plot=1
+X= 63, Y=111, crit=-24, vga_plot=1
+X= 20, Y= 74, crit=-24, vga_plot=1
+X= 57, Y=111, crit=-24, vga_plot=1
+X= 20, Y= 68, crit=-24, vga_plot=1
+X= 57, Y= 31, crit=-24, vga_plot=1
+X=100, Y= 68, crit=-24, vga_plot=1
+X= 63, Y= 31, crit=-24, vga_plot=1
+X=100, Y= 75, crit=-15, vga_plot=1
+X= 64, Y=111, crit=-15, vga_plot=1
+X= 20, Y= 75, crit=-15, vga_plot=1
+X= 56, Y=111, crit=-15, vga_plot=1
+X= 20, Y= 67, crit=-15, vga_plot=1
+X= 56, Y= 31, crit=-15, vga_plot=1
+X=100, Y= 67, crit=-15, vga_plot=1
+X= 64, Y= 31, crit=-15, vga_plot=1
+X=100, Y= 76, crit= -4, vga_plot=1
+X= 65, Y=111, crit= -4, vga_plot=1
+X= 20, Y= 76, crit= -4, vga_plot=1
+X= 55, Y=111, crit= -4, vga_plot=1
+X= 20, Y= 66, crit= -4, vga_plot=1
+X= 55, Y= 31, crit= -4, vga_plot=1
+X=100, Y= 66, crit= -4, vga_plot=1
+X= 65, Y= 31, crit= -4, vga_plot=1
+X=100, Y= 77, crit=  9, vga_plot=1
+X= 66, Y=111, crit=  9, vga_plot=1
+X= 20, Y= 77, crit=  9, vga_plot=1
+X= 54, Y=111, crit=  9, vga_plot=1
+X= 20, Y= 65, crit=  9, vga_plot=1
+X= 54, Y= 31, crit=  9, vga_plot=1
+X=100, Y= 65, crit=  9, vga_plot=1
+X= 66, Y= 31, crit=  9, vga_plot=1
+X= 99, Y= 78, crit=-54, vga_plot=1
+X= 67, Y=110, crit=-54, vga_plot=1
+X= 21, Y= 78, crit=-54, vga_plot=1
+X= 53, Y=110, crit=-54, vga_plot=1
+X= 21, Y= 64, crit=-54, vga_plot=1
+X= 53, Y= 32, crit=-54, vga_plot=1
+X= 99, Y= 64, crit=-54, vga_plot=1
+X= 67, Y= 32, crit=-54, vga_plot=1
+X= 99, Y= 79, crit=-37, vga_plot=1
+X= 68, Y=110, crit=-37, vga_plot=1
+X= 21, Y= 79, crit=-37, vga_plot=1
+X= 52, Y=110, crit=-37, vga_plot=1
+X= 21, Y= 63, crit=-37, vga_plot=1
+X= 52, Y= 32, crit=-37, vga_plot=1
+X= 99, Y= 63, crit=-37, vga_plot=1
+X= 68, Y= 32, crit=-37, vga_plot=1
+X= 99, Y= 80, crit=-18, vga_plot=1
+X= 69, Y=110, crit=-18, vga_plot=1
+X= 21, Y= 80, crit=-18, vga_plot=1
+X= 51, Y=110, crit=-18, vga_plot=1
+X= 21, Y= 62, crit=-18, vga_plot=1
+X= 51, Y= 32, crit=-18, vga_plot=1
+X= 99, Y= 62, crit=-18, vga_plot=1
+X= 69, Y= 32, crit=-18, vga_plot=1
+X= 99, Y= 81, crit=  3, vga_plot=1
+X= 70, Y=110, crit=  3, vga_plot=1
+X= 21, Y= 81, crit=  3, vga_plot=1
+X= 50, Y=110, crit=  3, vga_plot=1
+X= 21, Y= 61, crit=  3, vga_plot=1
+X= 50, Y= 32, crit=  3, vga_plot=1
+X= 99, Y= 61, crit=  3, vga_plot=1
+X= 70, Y= 32, crit=  3, vga_plot=1
+X= 98, Y= 82, crit=-50, vga_plot=1
+X= 71, Y=109, crit=-50, vga_plot=1
+X= 22, Y= 82, crit=-50, vga_plot=1
+X= 49, Y=109, crit=-50, vga_plot=1
+X= 22, Y= 60, crit=-50, vga_plot=1
+X= 49, Y= 33, crit=-50, vga_plot=1
+X= 98, Y= 60, crit=-50, vga_plot=1
+X= 71, Y= 33, crit=-50, vga_plot=1
+X= 98, Y= 83, crit=-25, vga_plot=1
+X= 72, Y=109, crit=-25, vga_plot=1
+X= 22, Y= 83, crit=-25, vga_plot=1
+X= 48, Y=109, crit=-25, vga_plot=1
+X= 22, Y= 59, crit=-25, vga_plot=1
+X= 48, Y= 33, crit=-25, vga_plot=1
+X= 98, Y= 59, crit=-25, vga_plot=1
+X= 72, Y= 33, crit=-25, vga_plot=1
+X= 98, Y= 84, crit=  2, vga_plot=1
+X= 73, Y=109, crit=  2, vga_plot=1
+X= 22, Y= 84, crit=  2, vga_plot=1
+X= 47, Y=109, crit=  2, vga_plot=1
+X= 22, Y= 58, crit=  2, vga_plot=1
+X= 47, Y= 33, crit=  2, vga_plot=1
+X= 98, Y= 58, crit=  2, vga_plot=1
+X= 73, Y= 33, crit=  2, vga_plot=1
+X= 97, Y= 85, crit=-43, vga_plot=1
+X= 74, Y=108, crit=-43, vga_plot=1
+X= 23, Y= 85, crit=-43, vga_plot=1
+X= 46, Y=108, crit=-43, vga_plot=1
+X= 23, Y= 57, crit=-43, vga_plot=1
+X= 46, Y= 34, crit=-43, vga_plot=1
+X= 97, Y= 57, crit=-43, vga_plot=1
+X= 74, Y= 34, crit=-43, vga_plot=1
+X= 97, Y= 86, crit=-12, vga_plot=1
+X= 75, Y=108, crit=-12, vga_plot=1
+X= 23, Y= 86, crit=-12, vga_plot=1
+X= 45, Y=108, crit=-12, vga_plot=1
+X= 23, Y= 56, crit=-12, vga_plot=1
+X= 45, Y= 34, crit=-12, vga_plot=1
+X= 97, Y= 56, crit=-12, vga_plot=1
+X= 75, Y= 34, crit=-12, vga_plot=1
+X= 97, Y= 87, crit= 21, vga_plot=1
+X= 76, Y=108, crit= 21, vga_plot=1
+X= 23, Y= 87, crit= 21, vga_plot=1
+X= 44, Y=108, crit= 21, vga_plot=1
+X= 23, Y= 55, crit= 21, vga_plot=1
+X= 44, Y= 34, crit= 21, vga_plot=1
+X= 97, Y= 55, crit= 21, vga_plot=1
+X= 76, Y= 34, crit= 21, vga_plot=1
+X= 96, Y= 88, crit=-16, vga_plot=1
+X= 77, Y=107, crit=-16, vga_plot=1
+X= 24, Y= 88, crit=-16, vga_plot=1
+X= 43, Y=107, crit=-16, vga_plot=1
+X= 24, Y= 54, crit=-16, vga_plot=1
+X= 43, Y= 35, crit=-16, vga_plot=1
+X= 96, Y= 54, crit=-16, vga_plot=1
+X= 77, Y= 35, crit=-16, vga_plot=1
+X= 96, Y= 89, crit= 21, vga_plot=1
+X= 78, Y=107, crit= 21, vga_plot=1
+X= 24, Y= 89, crit= 21, vga_plot=1
+X= 42, Y=107, crit= 21, vga_plot=1
+X= 24, Y= 53, crit= 21, vga_plot=1
+X= 42, Y= 35, crit= 21, vga_plot=1
+X= 96, Y= 53, crit= 21, vga_plot=1
+X= 78, Y= 35, crit= 21, vga_plot=1
+X= 95, Y= 90, crit=-10, vga_plot=1
+X= 79, Y=106, crit=-10, vga_plot=1
+X= 25, Y= 90, crit=-10, vga_plot=1
+X= 41, Y=106, crit=-10, vga_plot=1
+X= 25, Y= 52, crit=-10, vga_plot=1
+X= 41, Y= 36, crit=-10, vga_plot=1
+X= 95, Y= 52, crit=-10, vga_plot=1
+X= 79, Y= 36, crit=-10, vga_plot=1
+X= 95, Y= 91, crit= 31, vga_plot=1
+X= 80, Y=106, crit= 31, vga_plot=1
+X= 25, Y= 91, crit= 31, vga_plot=1
+X= 40, Y=106, crit= 31, vga_plot=1
+X= 25, Y= 51, crit= 31, vga_plot=1
+X= 40, Y= 36, crit= 31, vga_plot=1
+X= 95, Y= 51, crit= 31, vga_plot=1
+X= 80, Y= 36, crit= 31, vga_plot=1
+X= 94, Y= 92, crit=  6, vga_plot=1
+X= 81, Y=105, crit=  6, vga_plot=1
+X= 26, Y= 92, crit=  6, vga_plot=1
+X= 39, Y=105, crit=  6, vga_plot=1
+X= 26, Y= 50, crit=  6, vga_plot=1
+X= 39, Y= 37, crit=  6, vga_plot=1
+X= 94, Y= 50, crit=  6, vga_plot=1
+X= 81, Y= 37, crit=  6, vga_plot=1
+X= 93, Y= 93, crit=-15, vga_plot=1
+X= 82, Y=104, crit=-15, vga_plot=1
+X= 27, Y= 93, crit=-15, vga_plot=1
+X= 38, Y=104, crit=-15, vga_plot=1
+X= 27, Y= 49, crit=-15, vga_plot=1
+X= 38, Y= 38, crit=-15, vga_plot=1
+X= 93, Y= 49, crit=-15, vga_plot=1
+X= 82, Y= 38, crit=-15, vga_plot=1
+X= 93, Y= 94, crit= 32, vga_plot=1
+X= 83, Y=104, crit= 32, vga_plot=1
+X= 27, Y= 94, crit= 32, vga_plot=1
+X= 37, Y=104, crit= 32, vga_plot=1
+X= 27, Y= 48, crit= 32, vga_plot=1
+X= 37, Y= 38, crit= 32, vga_plot=1
+X= 93, Y= 48, crit= 32, vga_plot=1
+X= 83, Y= 38, crit= 32, vga_plot=1
+X= 92, Y= 95, crit= 17, vga_plot=1
+X= 84, Y=103, crit= 17, vga_plot=1
+X= 28, Y= 95, crit= 17, vga_plot=1
+X= 36, Y=103, crit= 17, vga_plot=1
+X= 28, Y= 47, crit= 17, vga_plot=1
+X= 36, Y= 39, crit= 17, vga_plot=1
+X= 92, Y= 47, crit= 17, vga_plot=1
+X= 84, Y= 39, crit= 17, vga_plot=1
+X= 91, Y= 96, crit=  6, vga_plot=1
+X= 85, Y=102, crit=  6, vga_plot=1
+X= 29, Y= 96, crit=  6, vga_plot=1
+X= 35, Y=102, crit=  6, vga_plot=1
+X= 29, Y= 46, crit=  6, vga_plot=1
+X= 35, Y= 40, crit=  6, vga_plot=1
+X= 91, Y= 46, crit=  6, vga_plot=1
+X= 85, Y= 40, crit=  6, vga_plot=1
+X= 90, Y= 97, crit= -1, vga_plot=1
+X= 86, Y=101, crit= -1, vga_plot=1
+X= 30, Y= 97, crit= -1, vga_plot=1
+X= 34, Y=101, crit= -1, vga_plot=1
+X= 30, Y= 45, crit= -1, vga_plot=1
+X= 34, Y= 41, crit= -1, vga_plot=1
+X= 90, Y= 45, crit= -1, vga_plot=1
+X= 86, Y= 41, crit= -1, vga_plot=1
+X= 90, Y= 98, crit= 54, vga_plot=1
+X= 87, Y=101, crit= 54, vga_plot=1
+X= 30, Y= 98, crit= 54, vga_plot=1
+X= 33, Y=101, crit= 54, vga_plot=1
+X= 30, Y= 44, crit= 54, vga_plot=1
+X= 33, Y= 41, crit= 54, vga_plot=1
+X= 90, Y= 44, crit= 54, vga_plot=1
+X= 87, Y= 41, crit= 54, vga_plot=1
+X= 89, Y= 99, crit= 53, vga_plot=1
+X= 88, Y=100, crit= 53, vga_plot=1
+X= 31, Y= 99, crit= 53, vga_plot=1
+X= 32, Y=100, crit= 53, vga_plot=1
+X= 31, Y= 43, crit= 53, vga_plot=1
+X= 32, Y= 42, crit= 53, vga_plot=1
+X= 89, Y= 43, crit= 53, vga_plot=1
+X= 88, Y= 42, crit= 53, vga_plot=1
+X=120, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= 76, crit=-39, vga_plot=1
+X= 40, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= 76, crit=-39, vga_plot=1
+X= 40, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= -4, crit=-39, vga_plot=0
+X=120, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= -4, crit=-39, vga_plot=0
+X=120, Y= 37, crit=-36, vga_plot=1
+X= 81, Y= 76, crit=-36, vga_plot=1
+X= 40, Y= 37, crit=-36, vga_plot=1
+X= 79, Y= 76, crit=-36, vga_plot=1
+X= 40, Y= 35, crit=-36, vga_plot=1
+X= 79, Y= -4, crit=-36, vga_plot=0
+X=120, Y= 35, crit=-36, vga_plot=1
+X= 81, Y= -4, crit=-36, vga_plot=0
+X=120, Y= 38, crit=-31, vga_plot=1
+X= 82, Y= 76, crit=-31, vga_plot=1
+X= 40, Y= 38, crit=-31, vga_plot=1
+X= 78, Y= 76, crit=-31, vga_plot=1
+X= 40, Y= 34, crit=-31, vga_plot=1
+X= 78, Y= -4, crit=-31, vga_plot=0
+X=120, Y= 34, crit=-31, vga_plot=1
+X= 82, Y= -4, crit=-31, vga_plot=0
+X=120, Y= 39, crit=-24, vga_plot=1
+X= 83, Y= 76, crit=-24, vga_plot=1
+X= 40, Y= 39, crit=-24, vga_plot=1
+X= 77, Y= 76, crit=-24, vga_plot=1
+X= 40, Y= 33, crit=-24, vga_plot=1
+X= 77, Y= -4, crit=-24, vga_plot=0
+X=120, Y= 33, crit=-24, vga_plot=1
+X= 83, Y= -4, crit=-24, vga_plot=0
+X=120, Y= 40, crit=-15, vga_plot=1
+X= 84, Y= 76, crit=-15, vga_plot=1
+X= 40, Y= 40, crit=-15, vga_plot=1
+X= 76, Y= 76, crit=-15, vga_plot=1
+X= 40, Y= 32, crit=-15, vga_plot=1
+X= 76, Y= -4, crit=-15, vga_plot=0
+X=120, Y= 32, crit=-15, vga_plot=1
+X= 84, Y= -4, crit=-15, vga_plot=0
+X=120, Y= 41, crit= -4, vga_plot=1
+X= 85, Y= 76, crit= -4, vga_plot=1
+X= 40, Y= 41, crit= -4, vga_plot=1
+X= 75, Y= 76, crit= -4, vga_plot=1
+X= 40, Y= 31, crit= -4, vga_plot=1
+X= 75, Y= -4, crit= -4, vga_plot=0
+X=120, Y= 31, crit= -4, vga_plot=1
+X= 85, Y= -4, crit= -4, vga_plot=0
+X=120, Y= 42, crit=  9, vga_plot=1
+X= 86, Y= 76, crit=  9, vga_plot=1
+X= 40, Y= 42, crit=  9, vga_plot=1
+X= 74, Y= 76, crit=  9, vga_plot=1
+X= 40, Y= 30, crit=  9, vga_plot=1
+X= 74, Y= -4, crit=  9, vga_plot=0
+X=120, Y= 30, crit=  9, vga_plot=1
+X= 86, Y= -4, crit=  9, vga_plot=0
+X=119, Y= 43, crit=-54, vga_plot=1
+X= 87, Y= 75, crit=-54, vga_plot=1
+X= 41, Y= 43, crit=-54, vga_plot=1
+X= 73, Y= 75, crit=-54, vga_plot=1
+X= 41, Y= 29, crit=-54, vga_plot=1
+X= 73, Y= -3, crit=-54, vga_plot=0
+X=119, Y= 29, crit=-54, vga_plot=1
+X= 87, Y= -3, crit=-54, vga_plot=0
+X=119, Y= 44, crit=-37, vga_plot=1
+X= 88, Y= 75, crit=-37, vga_plot=1
+X= 41, Y= 44, crit=-37, vga_plot=1
+X= 72, Y= 75, crit=-37, vga_plot=1
+X= 41, Y= 28, crit=-37, vga_plot=1
+X= 72, Y= -3, crit=-37, vga_plot=0
+X=119, Y= 28, crit=-37, vga_plot=1
+X= 88, Y= -3, crit=-37, vga_plot=0
+X=119, Y= 45, crit=-18, vga_plot=1
+X= 89, Y= 75, crit=-18, vga_plot=1
+X= 41, Y= 45, crit=-18, vga_plot=1
+X= 71, Y= 75, crit=-18, vga_plot=1
+X= 41, Y= 27, crit=-18, vga_plot=1
+X= 71, Y= -3, crit=-18, vga_plot=0
+X=119, Y= 27, crit=-18, vga_plot=1
+X= 89, Y= -3, crit=-18, vga_plot=0
+X=119, Y= 46, crit=  3, vga_plot=1
+X= 90, Y= 75, crit=  3, vga_plot=1
+X= 41, Y= 46, crit=  3, vga_plot=1
+X= 70, Y= 75, crit=  3, vga_plot=1
+X= 41, Y= 26, crit=  3, vga_plot=1
+X= 70, Y= -3, crit=  3, vga_plot=0
+X=119, Y= 26, crit=  3, vga_plot=1
+X= 90, Y= -3, crit=  3, vga_plot=0
+X=118, Y= 47, crit=-50, vga_plot=1
+X= 91, Y= 74, crit=-50, vga_plot=1
+X= 42, Y= 47, crit=-50, vga_plot=1
+X= 69, Y= 74, crit=-50, vga_plot=1
+X= 42, Y= 25, crit=-50, vga_plot=1
+X= 69, Y= -2, crit=-50, vga_plot=0
+X=118, Y= 25, crit=-50, vga_plot=1
+X= 91, Y= -2, crit=-50, vga_plot=0
+X=118, Y= 48, crit=-25, vga_plot=1
+X= 92, Y= 74, crit=-25, vga_plot=1
+X= 42, Y= 48, crit=-25, vga_plot=1
+X= 68, Y= 74, crit=-25, vga_plot=1
+X= 42, Y= 24, crit=-25, vga_plot=1
+X= 68, Y= -2, crit=-25, vga_plot=0
+X=118, Y= 24, crit=-25, vga_plot=1
+X= 92, Y= -2, crit=-25, vga_plot=0
+X=118, Y= 49, crit=  2, vga_plot=1
+X= 93, Y= 74, crit=  2, vga_plot=1
+X= 42, Y= 49, crit=  2, vga_plot=1
+X= 67, Y= 74, crit=  2, vga_plot=1
+X= 42, Y= 23, crit=  2, vga_plot=1
+X= 67, Y= -2, crit=  2, vga_plot=0
+X=118, Y= 23, crit=  2, vga_plot=1
+X= 93, Y= -2, crit=  2, vga_plot=0
+X=117, Y= 50, crit=-43, vga_plot=1
+X= 94, Y= 73, crit=-43, vga_plot=1
+X= 43, Y= 50, crit=-43, vga_plot=1
+X= 66, Y= 73, crit=-43, vga_plot=1
+X= 43, Y= 22, crit=-43, vga_plot=1
+X= 66, Y= -1, crit=-43, vga_plot=0
+X=117, Y= 22, crit=-43, vga_plot=1
+X= 94, Y= -1, crit=-43, vga_plot=0
+X=117, Y= 51, crit=-12, vga_plot=1
+X= 95, Y= 73, crit=-12, vga_plot=1
+X= 43, Y= 51, crit=-12, vga_plot=1
+X= 65, Y= 73, crit=-12, vga_plot=1
+X= 43, Y= 21, crit=-12, vga_plot=1
+X= 65, Y= -1, crit=-12, vga_plot=0
+X=117, Y= 21, crit=-12, vga_plot=1
+X= 95, Y= -1, crit=-12, vga_plot=0
+X=117, Y= 52, crit= 21, vga_plot=1
+X= 96, Y= 73, crit= 21, vga_plot=1
+X= 43, Y= 52, crit= 21, vga_plot=1
+X= 64, Y= 73, crit= 21, vga_plot=1
+X= 43, Y= 20, crit= 21, vga_plot=1
+X= 64, Y= -1, crit= 21, vga_plot=0
+X=117, Y= 20, crit= 21, vga_plot=1
+X= 96, Y= -1, crit= 21, vga_plot=0
+X=116, Y= 53, crit=-16, vga_plot=1
+X= 97, Y= 72, crit=-16, vga_plot=1
+X= 44, Y= 53, crit=-16, vga_plot=1
+X= 63, Y= 72, crit=-16, vga_plot=1
+X= 44, Y= 19, crit=-16, vga_plot=1
+X= 63, Y=  0, crit=-16, vga_plot=1
+X=116, Y= 19, crit=-16, vga_plot=1
+X= 97, Y=  0, crit=-16, vga_plot=1
+X=116, Y= 54, crit= 21, vga_plot=1
+X= 98, Y= 72, crit= 21, vga_plot=1
+X= 44, Y= 54, crit= 21, vga_plot=1
+X= 62, Y= 72, crit= 21, vga_plot=1
+X= 44, Y= 18, crit= 21, vga_plot=1
+X= 62, Y=  0, crit= 21, vga_plot=1
+X=116, Y= 18, crit= 21, vga_plot=1
+X= 98, Y=  0, crit= 21, vga_plot=1
+X=115, Y= 55, crit=-10, vga_plot=1
+X= 99, Y= 71, crit=-10, vga_plot=1
+X= 45, Y= 55, crit=-10, vga_plot=1
+X= 61, Y= 71, crit=-10, vga_plot=1
+X= 45, Y= 17, crit=-10, vga_plot=1
+X= 61, Y=  1, crit=-10, vga_plot=1
+X=115, Y= 17, crit=-10, vga_plot=1
+X= 99, Y=  1, crit=-10, vga_plot=1
+X=115, Y= 56, crit= 31, vga_plot=1
+X=100, Y= 71, crit= 31, vga_plot=1
+X= 45, Y= 56, crit= 31, vga_plot=1
+X= 60, Y= 71, crit= 31, vga_plot=1
+X= 45, Y= 16, crit= 31, vga_plot=1
+X= 60, Y=  1, crit= 31, vga_plot=1
+X=115, Y= 16, crit= 31, vga_plot=1
+X=100, Y=  1, crit= 31, vga_plot=1
+X=114, Y= 57, crit=  6, vga_plot=1
+X=101, Y= 70, crit=  6, vga_plot=1
+X= 46, Y= 57, crit=  6, vga_plot=1
+X= 59, Y= 70, crit=  6, vga_plot=1
+X= 46, Y= 15, crit=  6, vga_plot=1
+X= 59, Y=  2, crit=  6, vga_plot=1
+X=114, Y= 15, crit=  6, vga_plot=1
+X=101, Y=  2, crit=  6, vga_plot=1
+X=113, Y= 58, crit=-15, vga_plot=1
+X=102, Y= 69, crit=-15, vga_plot=1
+X= 47, Y= 58, crit=-15, vga_plot=1
+X= 58, Y= 69, crit=-15, vga_plot=1
+X= 47, Y= 14, crit=-15, vga_plot=1
+X= 58, Y=  3, crit=-15, vga_plot=1
+X=113, Y= 14, crit=-15, vga_plot=1
+X=102, Y=  3, crit=-15, vga_plot=1
+X=113, Y= 59, crit= 32, vga_plot=1
+X=103, Y= 69, crit= 32, vga_plot=1
+X= 47, Y= 59, crit= 32, vga_plot=1
+X= 57, Y= 69, crit= 32, vga_plot=1
+X= 47, Y= 13, crit= 32, vga_plot=1
+X= 57, Y=  3, crit= 32, vga_plot=1
+X=113, Y= 13, crit= 32, vga_plot=1
+X=103, Y=  3, crit= 32, vga_plot=1
+X=112, Y= 60, crit= 17, vga_plot=1
+X=104, Y= 68, crit= 17, vga_plot=1
+X= 48, Y= 60, crit= 17, vga_plot=1
+X= 56, Y= 68, crit= 17, vga_plot=1
+X= 48, Y= 12, crit= 17, vga_plot=1
+X= 56, Y=  4, crit= 17, vga_plot=1
+X=112, Y= 12, crit= 17, vga_plot=1
+X=104, Y=  4, crit= 17, vga_plot=1
+X=111, Y= 61, crit=  6, vga_plot=1
+X=105, Y= 67, crit=  6, vga_plot=1
+X= 49, Y= 61, crit=  6, vga_plot=1
+X= 55, Y= 67, crit=  6, vga_plot=1
+X= 49, Y= 11, crit=  6, vga_plot=1
+X= 55, Y=  5, crit=  6, vga_plot=1
+X=111, Y= 11, crit=  6, vga_plot=1
+X=105, Y=  5, crit=  6, vga_plot=1
+X=110, Y= 62, crit= -1, vga_plot=1
+X=106, Y= 66, crit= -1, vga_plot=1
+X= 50, Y= 62, crit= -1, vga_plot=1
+X= 54, Y= 66, crit= -1, vga_plot=1
+X= 50, Y= 10, crit= -1, vga_plot=1
+X= 54, Y=  6, crit= -1, vga_plot=1
+X=110, Y= 10, crit= -1, vga_plot=1
+X=106, Y=  6, crit= -1, vga_plot=1
+X=110, Y= 63, crit= 54, vga_plot=1
+X=107, Y= 66, crit= 54, vga_plot=1
+X= 50, Y= 63, crit= 54, vga_plot=1
+X= 53, Y= 66, crit= 54, vga_plot=1
+X= 50, Y=  9, crit= 54, vga_plot=1
+X= 53, Y=  6, crit= 54, vga_plot=1
+X=110, Y=  9, crit= 54, vga_plot=1
+X=107, Y=  6, crit= 54, vga_plot=1
+X=109, Y= 64, crit= 53, vga_plot=1
+X=108, Y= 65, crit= 53, vga_plot=1
+X= 51, Y= 64, crit= 53, vga_plot=1
+X= 52, Y= 65, crit= 53, vga_plot=1
+X= 51, Y=  8, crit= 53, vga_plot=1
+X= 52, Y=  7, crit= 53, vga_plot=1
+X=109, Y=  8, crit= 53, vga_plot=1
+X=108, Y=  7, crit= 53, vga_plot=1
+X=140, Y= 71, crit=-39, vga_plot=1
+X=100, Y=111, crit=-39, vga_plot=1
+X= 60, Y= 71, crit=-39, vga_plot=1
+X=100, Y=111, crit=-39, vga_plot=1
+X= 60, Y= 71, crit=-39, vga_plot=1
+X=100, Y= 31, crit=-39, vga_plot=1
+X=140, Y= 71, crit=-39, vga_plot=1
+X=100, Y= 31, crit=-39, vga_plot=1
+X=140, Y= 72, crit=-36, vga_plot=1
+X=101, Y=111, crit=-36, vga_plot=1
+X= 60, Y= 72, crit=-36, vga_plot=1
+X= 99, Y=111, crit=-36, vga_plot=1
+X= 60, Y= 70, crit=-36, vga_plot=1
+X= 99, Y= 31, crit=-36, vga_plot=1
+X=140, Y= 70, crit=-36, vga_plot=1
+X=101, Y= 31, crit=-36, vga_plot=1
+X=140, Y= 73, crit=-31, vga_plot=1
+X=102, Y=111, crit=-31, vga_plot=1
+X= 60, Y= 73, crit=-31, vga_plot=1
+X= 98, Y=111, crit=-31, vga_plot=1
+X= 60, Y= 69, crit=-31, vga_plot=1
+X= 98, Y= 31, crit=-31, vga_plot=1
+X=140, Y= 69, crit=-31, vga_plot=1
+X=102, Y= 31, crit=-31, vga_plot=1
+X=140, Y= 74, crit=-24, vga_plot=1
+X=103, Y=111, crit=-24, vga_plot=1
+X= 60, Y= 74, crit=-24, vga_plot=1
+X= 97, Y=111, crit=-24, vga_plot=1
+X= 60, Y= 68, crit=-24, vga_plot=1
+X= 97, Y= 31, crit=-24, vga_plot=1
+X=140, Y= 68, crit=-24, vga_plot=1
+X=103, Y= 31, crit=-24, vga_plot=1
+X=140, Y= 75, crit=-15, vga_plot=1
+X=104, Y=111, crit=-15, vga_plot=1
+X= 60, Y= 75, crit=-15, vga_plot=1
+X= 96, Y=111, crit=-15, vga_plot=1
+X= 60, Y= 67, crit=-15, vga_plot=1
+X= 96, Y= 31, crit=-15, vga_plot=1
+X=140, Y= 67, crit=-15, vga_plot=1
+X=104, Y= 31, crit=-15, vga_plot=1
+X=140, Y= 76, crit= -4, vga_plot=1
+X=105, Y=111, crit= -4, vga_plot=1
+X= 60, Y= 76, crit= -4, vga_plot=1
+X= 95, Y=111, crit= -4, vga_plot=1
+X= 60, Y= 66, crit= -4, vga_plot=1
+X= 95, Y= 31, crit= -4, vga_plot=1
+X=140, Y= 66, crit= -4, vga_plot=1
+X=105, Y= 31, crit= -4, vga_plot=1
+X=140, Y= 77, crit=  9, vga_plot=1
+X=106, Y=111, crit=  9, vga_plot=1
+X= 60, Y= 77, crit=  9, vga_plot=1
+X= 94, Y=111, crit=  9, vga_plot=1
+X= 60, Y= 65, crit=  9, vga_plot=1
+X= 94, Y= 31, crit=  9, vga_plot=1
+X=140, Y= 65, crit=  9, vga_plot=1
+X=106, Y= 31, crit=  9, vga_plot=1
+X=139, Y= 78, crit=-54, vga_plot=1
+X=107, Y=110, crit=-54, vga_plot=1
+X= 61, Y= 78, crit=-54, vga_plot=1
+X= 93, Y=110, crit=-54, vga_plot=1
+X= 61, Y= 64, crit=-54, vga_plot=1
+X= 93, Y= 32, crit=-54, vga_plot=1
+X=139, Y= 64, crit=-54, vga_plot=1
+X=107, Y= 32, crit=-54, vga_plot=1
+X=139, Y= 79, crit=-37, vga_plot=1
+X=108, Y=110, crit=-37, vga_plot=1
+X= 61, Y= 79, crit=-37, vga_plot=1
+X= 92, Y=110, crit=-37, vga_plot=1
+X= 61, Y= 63, crit=-37, vga_plot=1
+X= 92, Y= 32, crit=-37, vga_plot=1
+X=139, Y= 63, crit=-37, vga_plot=1
+X=108, Y= 32, crit=-37, vga_plot=1
+X=139, Y= 80, crit=-18, vga_plot=1
+X=109, Y=110, crit=-18, vga_plot=1
+X= 61, Y= 80, crit=-18, vga_plot=1
+X= 91, Y=110, crit=-18, vga_plot=1
+X= 61, Y= 62, crit=-18, vga_plot=1
+X= 91, Y= 32, crit=-18, vga_plot=1
+X=139, Y= 62, crit=-18, vga_plot=1
+X=109, Y= 32, crit=-18, vga_plot=1
+X=139, Y= 81, crit=  3, vga_plot=1
+X=110, Y=110, crit=  3, vga_plot=1
+X= 61, Y= 81, crit=  3, vga_plot=1
+X= 90, Y=110, crit=  3, vga_plot=1
+X= 61, Y= 61, crit=  3, vga_plot=1
+X= 90, Y= 32, crit=  3, vga_plot=1
+X=139, Y= 61, crit=  3, vga_plot=1
+X=110, Y= 32, crit=  3, vga_plot=1
+X=138, Y= 82, crit=-50, vga_plot=1
+X=111, Y=109, crit=-50, vga_plot=1
+X= 62, Y= 82, crit=-50, vga_plot=1
+X= 89, Y=109, crit=-50, vga_plot=1
+X= 62, Y= 60, crit=-50, vga_plot=1
+X= 89, Y= 33, crit=-50, vga_plot=1
+X=138, Y= 60, crit=-50, vga_plot=1
+X=111, Y= 33, crit=-50, vga_plot=1
+X=138, Y= 83, crit=-25, vga_plot=1
+X=112, Y=109, crit=-25, vga_plot=1
+X= 62, Y= 83, crit=-25, vga_plot=1
+X= 88, Y=109, crit=-25, vga_plot=1
+X= 62, Y= 59, crit=-25, vga_plot=1
+X= 88, Y= 33, crit=-25, vga_plot=1
+X=138, Y= 59, crit=-25, vga_plot=1
+X=112, Y= 33, crit=-25, vga_plot=1
+X=138, Y= 84, crit=  2, vga_plot=1
+X=113, Y=109, crit=  2, vga_plot=1
+X= 62, Y= 84, crit=  2, vga_plot=1
+X= 87, Y=109, crit=  2, vga_plot=1
+X= 62, Y= 58, crit=  2, vga_plot=1
+X= 87, Y= 33, crit=  2, vga_plot=1
+X=138, Y= 58, crit=  2, vga_plot=1
+X=113, Y= 33, crit=  2, vga_plot=1
+X=137, Y= 85, crit=-43, vga_plot=1
+X=114, Y=108, crit=-43, vga_plot=1
+X= 63, Y= 85, crit=-43, vga_plot=1
+X= 86, Y=108, crit=-43, vga_plot=1
+X= 63, Y= 57, crit=-43, vga_plot=1
+X= 86, Y= 34, crit=-43, vga_plot=1
+X=137, Y= 57, crit=-43, vga_plot=1
+X=114, Y= 34, crit=-43, vga_plot=1
+X=137, Y= 86, crit=-12, vga_plot=1
+X=115, Y=108, crit=-12, vga_plot=1
+X= 63, Y= 86, crit=-12, vga_plot=1
+X= 85, Y=108, crit=-12, vga_plot=1
+X= 63, Y= 56, crit=-12, vga_plot=1
+X= 85, Y= 34, crit=-12, vga_plot=1
+X=137, Y= 56, crit=-12, vga_plot=1
+X=115, Y= 34, crit=-12, vga_plot=1
+X=137, Y= 87, crit= 21, vga_plot=1
+X=116, Y=108, crit= 21, vga_plot=1
+X= 63, Y= 87, crit= 21, vga_plot=1
+X= 84, Y=108, crit= 21, vga_plot=1
+X= 63, Y= 55, crit= 21, vga_plot=1
+X= 84, Y= 34, crit= 21, vga_plot=1
+X=137, Y= 55, crit= 21, vga_plot=1
+X=116, Y= 34, crit= 21, vga_plot=1
+X=136, Y= 88, crit=-16, vga_plot=1
+X=117, Y=107, crit=-16, vga_plot=1
+X= 64, Y= 88, crit=-16, vga_plot=1
+X= 83, Y=107, crit=-16, vga_plot=1
+X= 64, Y= 54, crit=-16, vga_plot=1
+X= 83, Y= 35, crit=-16, vga_plot=1
+X=136, Y= 54, crit=-16, vga_plot=1
+X=117, Y= 35, crit=-16, vga_plot=1
+X=136, Y= 89, crit= 21, vga_plot=1
+X=118, Y=107, crit= 21, vga_plot=1
+X= 64, Y= 89, crit= 21, vga_plot=1
+X= 82, Y=107, crit= 21, vga_plot=1
+X= 64, Y= 53, crit= 21, vga_plot=1
+X= 82, Y= 35, crit= 21, vga_plot=1
+X=136, Y= 53, crit= 21, vga_plot=1
+X=118, Y= 35, crit= 21, vga_plot=1
+X=135, Y= 90, crit=-10, vga_plot=1
+X=119, Y=106, crit=-10, vga_plot=1
+X= 65, Y= 90, crit=-10, vga_plot=1
+X= 81, Y=106, crit=-10, vga_plot=1
+X= 65, Y= 52, crit=-10, vga_plot=1
+X= 81, Y= 36, crit=-10, vga_plot=1
+X=135, Y= 52, crit=-10, vga_plot=1
+X=119, Y= 36, crit=-10, vga_plot=1
+X=135, Y= 91, crit= 31, vga_plot=1
+X=120, Y=106, crit= 31, vga_plot=1
+X= 65, Y= 91, crit= 31, vga_plot=1
+X= 80, Y=106, crit= 31, vga_plot=1
+X= 65, Y= 51, crit= 31, vga_plot=1
+X= 80, Y= 36, crit= 31, vga_plot=1
+X=135, Y= 51, crit= 31, vga_plot=1
+X=120, Y= 36, crit= 31, vga_plot=1
+X=134, Y= 92, crit=  6, vga_plot=1
+X=121, Y=105, crit=  6, vga_plot=1
+X= 66, Y= 92, crit=  6, vga_plot=1
+X= 79, Y=105, crit=  6, vga_plot=1
+X= 66, Y= 50, crit=  6, vga_plot=1
+X= 79, Y= 37, crit=  6, vga_plot=1
+X=134, Y= 50, crit=  6, vga_plot=1
+X=121, Y= 37, crit=  6, vga_plot=1
+X=133, Y= 93, crit=-15, vga_plot=1
+X=122, Y=104, crit=-15, vga_plot=1
+X= 67, Y= 93, crit=-15, vga_plot=1
+X= 78, Y=104, crit=-15, vga_plot=1
+X= 67, Y= 49, crit=-15, vga_plot=1
+X= 78, Y= 38, crit=-15, vga_plot=1
+X=133, Y= 49, crit=-15, vga_plot=1
+X=122, Y= 38, crit=-15, vga_plot=1
+X=133, Y= 94, crit= 32, vga_plot=1
+X=123, Y=104, crit= 32, vga_plot=1
+X= 67, Y= 94, crit= 32, vga_plot=1
+X= 77, Y=104, crit= 32, vga_plot=1
+X= 67, Y= 48, crit= 32, vga_plot=1
+X= 77, Y= 38, crit= 32, vga_plot=1
+X=133, Y= 48, crit= 32, vga_plot=1
+X=123, Y= 38, crit= 32, vga_plot=1
+X=132, Y= 95, crit= 17, vga_plot=1
+X=124, Y=103, crit= 17, vga_plot=1
+X= 68, Y= 95, crit= 17, vga_plot=1
+X= 76, Y=103, crit= 17, vga_plot=1
+X= 68, Y= 47, crit= 17, vga_plot=1
+X= 76, Y= 39, crit= 17, vga_plot=1
+X=132, Y= 47, crit= 17, vga_plot=1
+X=124, Y= 39, crit= 17, vga_plot=1
+X=131, Y= 96, crit=  6, vga_plot=1
+X=125, Y=102, crit=  6, vga_plot=1
+X= 69, Y= 96, crit=  6, vga_plot=1
+X= 75, Y=102, crit=  6, vga_plot=1
+X= 69, Y= 46, crit=  6, vga_plot=1
+X= 75, Y= 40, crit=  6, vga_plot=1
+X=131, Y= 46, crit=  6, vga_plot=1
+X=125, Y= 40, crit=  6, vga_plot=1
+X=130, Y= 97, crit= -1, vga_plot=1
+X=126, Y=101, crit= -1, vga_plot=1
+X= 70, Y= 97, crit= -1, vga_plot=1
+X= 74, Y=101, crit= -1, vga_plot=1
+X= 70, Y= 45, crit= -1, vga_plot=1
+X= 74, Y= 41, crit= -1, vga_plot=1
+X=130, Y= 45, crit= -1, vga_plot=1
+X=126, Y= 41, crit= -1, vga_plot=1
+X=130, Y= 98, crit= 54, vga_plot=1
+X=127, Y=101, crit= 54, vga_plot=1
+X= 70, Y= 98, crit= 54, vga_plot=1
+X= 73, Y=101, crit= 54, vga_plot=1
+X= 70, Y= 44, crit= 54, vga_plot=1
+X= 73, Y= 41, crit= 54, vga_plot=1
+X=130, Y= 44, crit= 54, vga_plot=1
+X=127, Y= 41, crit= 54, vga_plot=1
+X=129, Y= 99, crit= 53, vga_plot=1
+X=128, Y=100, crit= 53, vga_plot=1
+X= 71, Y= 99, crit= 53, vga_plot=1
+X= 72, Y=100, crit= 53, vga_plot=1
+X= 71, Y= 43, crit= 53, vga_plot=1
+X= 72, Y= 42, crit= 53, vga_plot=1
+X=129, Y= 43, crit= 53, vga_plot=1
+X=128, Y= 42, crit= 53, vga_plot=1
+X=100, Y= 71, crit=-39, vga_plot=1
+X= 60, Y=111, crit=-39, vga_plot=1
+X= 20, Y= 71, crit=-39, vga_plot=1
+X= 60, Y=111, crit=-39, vga_plot=1
+X= 20, Y= 71, crit=-39, vga_plot=1
+X= 60, Y= 31, crit=-39, vga_plot=1
+X=100, Y= 71, crit=-39, vga_plot=1
+X= 60, Y= 31, crit=-39, vga_plot=1
+X=100, Y= 72, crit=-36, vga_plot=1
+X= 61, Y=111, crit=-36, vga_plot=1
+X= 20, Y= 72, crit=-36, vga_plot=1
+X= 59, Y=111, crit=-36, vga_plot=1
+X= 20, Y= 70, crit=-36, vga_plot=1
+X= 59, Y= 31, crit=-36, vga_plot=1
+X=100, Y= 70, crit=-36, vga_plot=1
+X= 61, Y= 31, crit=-36, vga_plot=1
+X=100, Y= 73, crit=-31, vga_plot=1
+X= 62, Y=111, crit=-31, vga_plot=1
+X= 20, Y= 73, crit=-31, vga_plot=1
+X= 58, Y=111, crit=-31, vga_plot=1
+X= 20, Y= 69, crit=-31, vga_plot=1
+X= 58, Y= 31, crit=-31, vga_plot=1
+X=100, Y= 69, crit=-31, vga_plot=1
+X= 62, Y= 31, crit=-31, vga_plot=1
+X=100, Y= 74, crit=-24, vga_plot=1
+X= 63, Y=111, crit=-24, vga_plot=1
+X= 20, Y= 74, crit=-24, vga_plot=1
+X= 57, Y=111, crit=-24, vga_plot=1
+X= 20, Y= 68, crit=-24, vga_plot=1
+X= 57, Y= 31, crit=-24, vga_plot=1
+X=100, Y= 68, crit=-24, vga_plot=1
+X= 63, Y= 31, crit=-24, vga_plot=1
+X=100, Y= 75, crit=-15, vga_plot=1
+X= 64, Y=111, crit=-15, vga_plot=1
+X= 20, Y= 75, crit=-15, vga_plot=1
+X= 56, Y=111, crit=-15, vga_plot=1
+X= 20, Y= 67, crit=-15, vga_plot=1
+X= 56, Y= 31, crit=-15, vga_plot=1
+X=100, Y= 67, crit=-15, vga_plot=1
+X= 64, Y= 31, crit=-15, vga_plot=1
+X=100, Y= 76, crit= -4, vga_plot=1
+X= 65, Y=111, crit= -4, vga_plot=1
+X= 20, Y= 76, crit= -4, vga_plot=1
+X= 55, Y=111, crit= -4, vga_plot=1
+X= 20, Y= 66, crit= -4, vga_plot=1
+X= 55, Y= 31, crit= -4, vga_plot=1
+X=100, Y= 66, crit= -4, vga_plot=1
+X= 65, Y= 31, crit= -4, vga_plot=1
+X=100, Y= 77, crit=  9, vga_plot=1
+X= 66, Y=111, crit=  9, vga_plot=1
+X= 20, Y= 77, crit=  9, vga_plot=1
+X= 54, Y=111, crit=  9, vga_plot=1
+X= 20, Y= 65, crit=  9, vga_plot=1
+X= 54, Y= 31, crit=  9, vga_plot=1
+X=100, Y= 65, crit=  9, vga_plot=1
+X= 66, Y= 31, crit=  9, vga_plot=1
+X= 99, Y= 78, crit=-54, vga_plot=1
+X= 67, Y=110, crit=-54, vga_plot=1
+X= 21, Y= 78, crit=-54, vga_plot=1
+X= 53, Y=110, crit=-54, vga_plot=1
+X= 21, Y= 64, crit=-54, vga_plot=1
+X= 53, Y= 32, crit=-54, vga_plot=1
+X= 99, Y= 64, crit=-54, vga_plot=1
+X= 67, Y= 32, crit=-54, vga_plot=1
+X= 99, Y= 79, crit=-37, vga_plot=1
+X= 68, Y=110, crit=-37, vga_plot=1
+X= 21, Y= 79, crit=-37, vga_plot=1
+X= 52, Y=110, crit=-37, vga_plot=1
+X= 21, Y= 63, crit=-37, vga_plot=1
+X= 52, Y= 32, crit=-37, vga_plot=1
+X= 99, Y= 63, crit=-37, vga_plot=1
+X= 68, Y= 32, crit=-37, vga_plot=1
+X= 99, Y= 80, crit=-18, vga_plot=1
+X= 69, Y=110, crit=-18, vga_plot=1
+X= 21, Y= 80, crit=-18, vga_plot=1
+X= 51, Y=110, crit=-18, vga_plot=1
+X= 21, Y= 62, crit=-18, vga_plot=1
+X= 51, Y= 32, crit=-18, vga_plot=1
+X= 99, Y= 62, crit=-18, vga_plot=1
+X= 69, Y= 32, crit=-18, vga_plot=1
+X= 99, Y= 81, crit=  3, vga_plot=1
+X= 70, Y=110, crit=  3, vga_plot=1
+X= 21, Y= 81, crit=  3, vga_plot=1
+X= 50, Y=110, crit=  3, vga_plot=1
+X= 21, Y= 61, crit=  3, vga_plot=1
+X= 50, Y= 32, crit=  3, vga_plot=1
+X= 99, Y= 61, crit=  3, vga_plot=1
+X= 70, Y= 32, crit=  3, vga_plot=1
+X= 98, Y= 82, crit=-50, vga_plot=1
+X= 71, Y=109, crit=-50, vga_plot=1
+X= 22, Y= 82, crit=-50, vga_plot=1
+X= 49, Y=109, crit=-50, vga_plot=1
+X= 22, Y= 60, crit=-50, vga_plot=1
+X= 49, Y= 33, crit=-50, vga_plot=1
+X= 98, Y= 60, crit=-50, vga_plot=1
+X= 71, Y= 33, crit=-50, vga_plot=1
+X= 98, Y= 83, crit=-25, vga_plot=1
+X= 72, Y=109, crit=-25, vga_plot=1
+X= 22, Y= 83, crit=-25, vga_plot=1
+X= 48, Y=109, crit=-25, vga_plot=1
+X= 22, Y= 59, crit=-25, vga_plot=1
+X= 48, Y= 33, crit=-25, vga_plot=1
+X= 98, Y= 59, crit=-25, vga_plot=1
+X= 72, Y= 33, crit=-25, vga_plot=1
+X= 98, Y= 84, crit=  2, vga_plot=1
+X= 73, Y=109, crit=  2, vga_plot=1
+X= 22, Y= 84, crit=  2, vga_plot=1
+X= 47, Y=109, crit=  2, vga_plot=1
+X= 22, Y= 58, crit=  2, vga_plot=1
+X= 47, Y= 33, crit=  2, vga_plot=1
+X= 98, Y= 58, crit=  2, vga_plot=1
+X= 73, Y= 33, crit=  2, vga_plot=1
+X= 97, Y= 85, crit=-43, vga_plot=1
+X= 74, Y=108, crit=-43, vga_plot=1
+X= 23, Y= 85, crit=-43, vga_plot=1
+X= 46, Y=108, crit=-43, vga_plot=1
+X= 23, Y= 57, crit=-43, vga_plot=1
+X= 46, Y= 34, crit=-43, vga_plot=1
+X= 97, Y= 57, crit=-43, vga_plot=1
+X= 74, Y= 34, crit=-43, vga_plot=1
+X= 97, Y= 86, crit=-12, vga_plot=1
+X= 75, Y=108, crit=-12, vga_plot=1
+X= 23, Y= 86, crit=-12, vga_plot=1
+X= 45, Y=108, crit=-12, vga_plot=1
+X= 23, Y= 56, crit=-12, vga_plot=1
+X= 45, Y= 34, crit=-12, vga_plot=1
+X= 97, Y= 56, crit=-12, vga_plot=1
+X= 75, Y= 34, crit=-12, vga_plot=1
+X= 97, Y= 87, crit= 21, vga_plot=1
+X= 76, Y=108, crit= 21, vga_plot=1
+X= 23, Y= 87, crit= 21, vga_plot=1
+X= 44, Y=108, crit= 21, vga_plot=1
+X= 23, Y= 55, crit= 21, vga_plot=1
+X= 44, Y= 34, crit= 21, vga_plot=1
+X= 97, Y= 55, crit= 21, vga_plot=1
+X= 76, Y= 34, crit= 21, vga_plot=1
+X= 96, Y= 88, crit=-16, vga_plot=1
+X= 77, Y=107, crit=-16, vga_plot=1
+X= 24, Y= 88, crit=-16, vga_plot=1
+X= 43, Y=107, crit=-16, vga_plot=1
+X= 24, Y= 54, crit=-16, vga_plot=1
+X= 43, Y= 35, crit=-16, vga_plot=1
+X= 96, Y= 54, crit=-16, vga_plot=1
+X= 77, Y= 35, crit=-16, vga_plot=1
+X= 96, Y= 89, crit= 21, vga_plot=1
+X= 78, Y=107, crit= 21, vga_plot=1
+X= 24, Y= 89, crit= 21, vga_plot=1
+X= 42, Y=107, crit= 21, vga_plot=1
+X= 24, Y= 53, crit= 21, vga_plot=1
+X= 42, Y= 35, crit= 21, vga_plot=1
+X= 96, Y= 53, crit= 21, vga_plot=1
+X= 78, Y= 35, crit= 21, vga_plot=1
+X= 95, Y= 90, crit=-10, vga_plot=1
+X= 79, Y=106, crit=-10, vga_plot=1
+X= 25, Y= 90, crit=-10, vga_plot=1
+X= 41, Y=106, crit=-10, vga_plot=1
+X= 25, Y= 52, crit=-10, vga_plot=1
+X= 41, Y= 36, crit=-10, vga_plot=1
+X= 95, Y= 52, crit=-10, vga_plot=1
+X= 79, Y= 36, crit=-10, vga_plot=1
+X= 95, Y= 91, crit= 31, vga_plot=1
+X= 80, Y=106, crit= 31, vga_plot=1
+X= 25, Y= 91, crit= 31, vga_plot=1
+X= 40, Y=106, crit= 31, vga_plot=1
+X= 25, Y= 51, crit= 31, vga_plot=1
+X= 40, Y= 36, crit= 31, vga_plot=1
+X= 95, Y= 51, crit= 31, vga_plot=1
+X= 80, Y= 36, crit= 31, vga_plot=1
+X= 94, Y= 92, crit=  6, vga_plot=1
+X= 81, Y=105, crit=  6, vga_plot=1
+X= 26, Y= 92, crit=  6, vga_plot=1
+X= 39, Y=105, crit=  6, vga_plot=1
+X= 26, Y= 50, crit=  6, vga_plot=1
+X= 39, Y= 37, crit=  6, vga_plot=1
+X= 94, Y= 50, crit=  6, vga_plot=1
+X= 81, Y= 37, crit=  6, vga_plot=1
+X= 93, Y= 93, crit=-15, vga_plot=1
+X= 82, Y=104, crit=-15, vga_plot=1
+X= 27, Y= 93, crit=-15, vga_plot=1
+X= 38, Y=104, crit=-15, vga_plot=1
+X= 27, Y= 49, crit=-15, vga_plot=1
+X= 38, Y= 38, crit=-15, vga_plot=1
+X= 93, Y= 49, crit=-15, vga_plot=1
+X= 82, Y= 38, crit=-15, vga_plot=1
+X= 93, Y= 94, crit= 32, vga_plot=1
+X= 83, Y=104, crit= 32, vga_plot=1
+X= 27, Y= 94, crit= 32, vga_plot=1
+X= 37, Y=104, crit= 32, vga_plot=1
+X= 27, Y= 48, crit= 32, vga_plot=1
+X= 37, Y= 38, crit= 32, vga_plot=1
+X= 93, Y= 48, crit= 32, vga_plot=1
+X= 83, Y= 38, crit= 32, vga_plot=1
+X= 92, Y= 95, crit= 17, vga_plot=1
+X= 84, Y=103, crit= 17, vga_plot=1
+X= 28, Y= 95, crit= 17, vga_plot=1
+X= 36, Y=103, crit= 17, vga_plot=1
+X= 28, Y= 47, crit= 17, vga_plot=1
+X= 36, Y= 39, crit= 17, vga_plot=1
+X= 92, Y= 47, crit= 17, vga_plot=1
+X= 84, Y= 39, crit= 17, vga_plot=1
+X= 91, Y= 96, crit=  6, vga_plot=1
+X= 85, Y=102, crit=  6, vga_plot=1
+X= 29, Y= 96, crit=  6, vga_plot=1
+X= 35, Y=102, crit=  6, vga_plot=1
+X= 29, Y= 46, crit=  6, vga_plot=1
+X= 35, Y= 40, crit=  6, vga_plot=1
+X= 91, Y= 46, crit=  6, vga_plot=1
+X= 85, Y= 40, crit=  6, vga_plot=1
+X= 90, Y= 97, crit= -1, vga_plot=1
+X= 86, Y=101, crit= -1, vga_plot=1
+X= 30, Y= 97, crit= -1, vga_plot=1
+X= 34, Y=101, crit= -1, vga_plot=1
+X= 30, Y= 45, crit= -1, vga_plot=1
+X= 34, Y= 41, crit= -1, vga_plot=1
+X= 90, Y= 45, crit= -1, vga_plot=1
+X= 86, Y= 41, crit= -1, vga_plot=1
+X= 90, Y= 98, crit= 54, vga_plot=1
+X= 87, Y=101, crit= 54, vga_plot=1
+X= 30, Y= 98, crit= 54, vga_plot=1
+X= 33, Y=101, crit= 54, vga_plot=1
+X= 30, Y= 44, crit= 54, vga_plot=1
+X= 33, Y= 41, crit= 54, vga_plot=1
+X= 90, Y= 44, crit= 54, vga_plot=1
+X= 87, Y= 41, crit= 54, vga_plot=1
+X= 89, Y= 99, crit= 53, vga_plot=1
+X= 88, Y=100, crit= 53, vga_plot=1
+X= 31, Y= 99, crit= 53, vga_plot=1
+X= 32, Y=100, crit= 53, vga_plot=1
+X= 31, Y= 43, crit= 53, vga_plot=1
+X= 32, Y= 42, crit= 53, vga_plot=1
+X= 89, Y= 43, crit= 53, vga_plot=1
+X= 88, Y= 42, crit= 53, vga_plot=1
+X=120, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= 76, crit=-39, vga_plot=1
+X= 40, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= 76, crit=-39, vga_plot=1
+X= 40, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= -4, crit=-39, vga_plot=0
+X=120, Y= 36, crit=-39, vga_plot=1
+X= 80, Y= -4, crit=-39, vga_plot=0
+X=120, Y= 37, crit=-36, vga_plot=1
+X= 81, Y= 76, crit=-36, vga_plot=1
+X= 40, Y= 37, crit=-36, vga_plot=1
+X= 79, Y= 76, crit=-36, vga_plot=1
+X= 40, Y= 35, crit=-36, vga_plot=1
+X= 79, Y= -4, crit=-36, vga_plot=0
+X=120, Y= 35, crit=-36, vga_plot=1
+X= 81, Y= -4, crit=-36, vga_plot=0
+X=120, Y= 38, crit=-31, vga_plot=1
+X= 82, Y= 76, crit=-31, vga_plot=1
+X= 40, Y= 38, crit=-31, vga_plot=1
+X= 78, Y= 76, crit=-31, vga_plot=1
+X= 40, Y= 34, crit=-31, vga_plot=1
+X= 78, Y= -4, crit=-31, vga_plot=0
+X=120, Y= 34, crit=-31, vga_plot=1
+X= 82, Y= -4, crit=-31, vga_plot=0
+X=120, Y= 39, crit=-24, vga_plot=1
+X= 83, Y= 76, crit=-24, vga_plot=1
+X= 40, Y= 39, crit=-24, vga_plot=1
+X= 77, Y= 76, crit=-24, vga_plot=1
+X= 40, Y= 33, crit=-24, vga_plot=1
+X= 77, Y= -4, crit=-24, vga_plot=0
+X=120, Y= 33, crit=-24, vga_plot=1
+X= 83, Y= -4, crit=-24, vga_plot=0
+X=120, Y= 40, crit=-15, vga_plot=1
+X= 84, Y= 76, crit=-15, vga_plot=1
+X= 40, Y= 40, crit=-15, vga_plot=1
+X= 76, Y= 76, crit=-15, vga_plot=1
+X= 40, Y= 32, crit=-15, vga_plot=1
+X= 76, Y= -4, crit=-15, vga_plot=0
+X=120, Y= 32, crit=-15, vga_plot=1
+X= 84, Y= -4, crit=-15, vga_plot=0
+X=120, Y= 41, crit= -4, vga_plot=1
+X= 85, Y= 76, crit= -4, vga_plot=1
+X= 40, Y= 41, crit= -4, vga_plot=1
+X= 75, Y= 76, crit= -4, vga_plot=1
+X= 40, Y= 31, crit= -4, vga_plot=1
+X= 75, Y= -4, crit= -4, vga_plot=0
+X=120, Y= 31, crit= -4, vga_plot=1
+X= 85, Y= -4, crit= -4, vga_plot=0
+X=120, Y= 42, crit=  9, vga_plot=1
+X= 86, Y= 76, crit=  9, vga_plot=1
+X= 40, Y= 42, crit=  9, vga_plot=1
+X= 74, Y= 76, crit=  9, vga_plot=1
+X= 40, Y= 30, crit=  9, vga_plot=1
+X= 74, Y= -4, crit=  9, vga_plot=0
+X=120, Y= 30, crit=  9, vga_plot=1
+X= 86, Y= -4, crit=  9, vga_plot=0
+X=119, Y= 43, crit=-54, vga_plot=1
+X= 87, Y= 75, crit=-54, vga_plot=1
+X= 41, Y= 43, crit=-54, vga_plot=1
+X= 73, Y= 75, crit=-54, vga_plot=1
+X= 41, Y= 29, crit=-54, vga_plot=1
+X= 73, Y= -3, crit=-54, vga_plot=0
+X=119, Y= 29, crit=-54, vga_plot=1
+X= 87, Y= -3, crit=-54, vga_plot=0
+X=119, Y= 44, crit=-37, vga_plot=1
+X= 88, Y= 75, crit=-37, vga_plot=1
+X= 41, Y= 44, crit=-37, vga_plot=1
+X= 72, Y= 75, crit=-37, vga_plot=1
+X= 41, Y= 28, crit=-37, vga_plot=1
+X= 72, Y= -3, crit=-37, vga_plot=0
+X=119, Y= 28, crit=-37, vga_plot=1
+X= 88, Y= -3, crit=-37, vga_plot=0
+X=119, Y= 45, crit=-18, vga_plot=1
+X= 89, Y= 75, crit=-18, vga_plot=1
+X= 41, Y= 45, crit=-18, vga_plot=1
+X= 71, Y= 75, crit=-18, vga_plot=1
+X= 41, Y= 27, crit=-18, vga_plot=1
+X= 71, Y= -3, crit=-18, vga_plot=0
+X=119, Y= 27, crit=-18, vga_plot=1
+X= 89, Y= -3, crit=-18, vga_plot=0
+X=119, Y= 46, crit=  3, vga_plot=1
+X= 90, Y= 75, crit=  3, vga_plot=1
+X= 41, Y= 46, crit=  3, vga_plot=1
+X= 70, Y= 75, crit=  3, vga_plot=1
+X= 41, Y= 26, crit=  3, vga_plot=1
+X= 70, Y= -3, crit=  3, vga_plot=0
+X=119, Y= 26, crit=  3, vga_plot=1
+X= 90, Y= -3, crit=  3, vga_plot=0
+X=118, Y= 47, crit=-50, vga_plot=1
+X= 91, Y= 74, crit=-50, vga_plot=1
+X= 42, Y= 47, crit=-50, vga_plot=1
+X= 69, Y= 74, crit=-50, vga_plot=1
+X= 42, Y= 25, crit=-50, vga_plot=1
+X= 69, Y= -2, crit=-50, vga_plot=0
+X=118, Y= 25, crit=-50, vga_plot=1
+X= 91, Y= -2, crit=-50, vga_plot=0
+X=118, Y= 48, crit=-25, vga_plot=1
+X= 92, Y= 74, crit=-25, vga_plot=1
+X= 42, Y= 48, crit=-25, vga_plot=1
+X= 68, Y= 74, crit=-25, vga_plot=1
+X= 42, Y= 24, crit=-25, vga_plot=1
+X= 68, Y= -2, crit=-25, vga_plot=0
+X=118, Y= 24, crit=-25, vga_plot=1
+X= 92, Y= -2, crit=-25, vga_plot=0
+X=118, Y= 49, crit=  2, vga_plot=1
+X= 93, Y= 74, crit=  2, vga_plot=1
+X= 42, Y= 49, crit=  2, vga_plot=1
+X= 67, Y= 74, crit=  2, vga_plot=1
+X= 42, Y= 23, crit=  2, vga_plot=1
+X= 67, Y= -2, crit=  2, vga_plot=0
+X=118, Y= 23, crit=  2, vga_plot=1
+X= 93, Y= -2, crit=  2, vga_plot=0
+X=117, Y= 50, crit=-43, vga_plot=1
+X= 94, Y= 73, crit=-43, vga_plot=1
+X= 43, Y= 50, crit=-43, vga_plot=1
+X= 66, Y= 73, crit=-43, vga_plot=1
+X= 43, Y= 22, crit=-43, vga_plot=1
+X= 66, Y= -1, crit=-43, vga_plot=0
+X=117, Y= 22, crit=-43, vga_plot=1
+X= 94, Y= -1, crit=-43, vga_plot=0
+X=117, Y= 51, crit=-12, vga_plot=1
+X= 95, Y= 73, crit=-12, vga_plot=1
+X= 43, Y= 51, crit=-12, vga_plot=1
+X= 65, Y= 73, crit=-12, vga_plot=1
+X= 43, Y= 21, crit=-12, vga_plot=1
+X= 65, Y= -1, crit=-12, vga_plot=0
+X=117, Y= 21, crit=-12, vga_plot=1
+X= 95, Y= -1, crit=-12, vga_plot=0
+X=117, Y= 52, crit= 21, vga_plot=1
+X= 96, Y= 73, crit= 21, vga_plot=1
+X= 43, Y= 52, crit= 21, vga_plot=1
+X= 64, Y= 73, crit= 21, vga_plot=1
+X= 43, Y= 20, crit= 21, vga_plot=1
+X= 64, Y= -1, crit= 21, vga_plot=0
+X=117, Y= 20, crit= 21, vga_plot=1
+X= 96, Y= -1, crit= 21, vga_plot=0
+X=116, Y= 53, crit=-16, vga_plot=1
+X= 97, Y= 72, crit=-16, vga_plot=1
+X= 44, Y= 53, crit=-16, vga_plot=1
+X= 63, Y= 72, crit=-16, vga_plot=1
+X= 44, Y= 19, crit=-16, vga_plot=1
+X= 63, Y=  0, crit=-16, vga_plot=1
+X=116, Y= 19, crit=-16, vga_plot=1
+X= 97, Y=  0, crit=-16, vga_plot=1
+X=116, Y= 54, crit= 21, vga_plot=1
+X= 98, Y= 72, crit= 21, vga_plot=1
+X= 44, Y= 54, crit= 21, vga_plot=1
+X= 62, Y= 72, crit= 21, vga_plot=1
+X= 44, Y= 18, crit= 21, vga_plot=1
+X= 62, Y=  0, crit= 21, vga_plot=1
+X=116, Y= 18, crit= 21, vga_plot=1
+X= 98, Y=  0, crit= 21, vga_plot=1
+X=115, Y= 55, crit=-10, vga_plot=1
+X= 99, Y= 71, crit=-10, vga_plot=1
+X= 45, Y= 55, crit=-10, vga_plot=1
+X= 61, Y= 71, crit=-10, vga_plot=1
+X= 45, Y= 17, crit=-10, vga_plot=1
+X= 61, Y=  1, crit=-10, vga_plot=1
+X=115, Y= 17, crit=-10, vga_plot=1
+X= 99, Y=  1, crit=-10, vga_plot=1
+X=115, Y= 56, crit= 31, vga_plot=1
+X=100, Y= 71, crit= 31, vga_plot=1
+X= 45, Y= 56, crit= 31, vga_plot=1
+X= 60, Y= 71, crit= 31, vga_plot=1
+X= 45, Y= 16, crit= 31, vga_plot=1
+X= 60, Y=  1, crit= 31, vga_plot=1
+X=115, Y= 16, crit= 31, vga_plot=1
+X=100, Y=  1, crit= 31, vga_plot=1
+X=114, Y= 57, crit=  6, vga_plot=1
+X=101, Y= 70, crit=  6, vga_plot=1
+X= 46, Y= 57, crit=  6, vga_plot=1
+X= 59, Y= 70, crit=  6, vga_plot=1
+X= 46, Y= 15, crit=  6, vga_plot=1
+X= 59, Y=  2, crit=  6, vga_plot=1
+X=114, Y= 15, crit=  6, vga_plot=1
+X=101, Y=  2, crit=  6, vga_plot=1
+X=113, Y= 58, crit=-15, vga_plot=1
+X=102, Y= 69, crit=-15, vga_plot=1
+X= 47, Y= 58, crit=-15, vga_plot=1
+X= 58, Y= 69, crit=-15, vga_plot=1
+X= 47, Y= 14, crit=-15, vga_plot=1
+X= 58, Y=  3, crit=-15, vga_plot=1
+X=113, Y= 14, crit=-15, vga_plot=1
+X=102, Y=  3, crit=-15, vga_plot=1
+X=113, Y= 59, crit= 32, vga_plot=1
+X=103, Y= 69, crit= 32, vga_plot=1
+X= 47, Y= 59, crit= 32, vga_plot=1
+X= 57, Y= 69, crit= 32, vga_plot=1
+X= 47, Y= 13, crit= 32, vga_plot=1
+X= 57, Y=  3, crit= 32, vga_plot=1
+X=113, Y= 13, crit= 32, vga_plot=1
+X=103, Y=  3, crit= 32, vga_plot=1
+X=112, Y= 60, crit= 17, vga_plot=1
+X=104, Y= 68, crit= 17, vga_plot=1
+X= 48, Y= 60, crit= 17, vga_plot=1
+X= 56, Y= 68, crit= 17, vga_plot=1
+X= 48, Y= 12, crit= 17, vga_plot=1
+X= 56, Y=  4, crit= 17, vga_plot=1
+X=112, Y= 12, crit= 17, vga_plot=1
+X=104, Y=  4, crit= 17, vga_plot=1
+X=111, Y= 61, crit=  6, vga_plot=1
+X=105, Y= 67, crit=  6, vga_plot=1
+X= 49, Y= 61, crit=  6, vga_plot=1
+X= 55, Y= 67, crit=  6, vga_plot=1
+X= 49, Y= 11, crit=  6, vga_plot=1
+X= 55, Y=  5, crit=  6, vga_plot=1
+X=111, Y= 11, crit=  6, vga_plot=1
+X=105, Y=  5, crit=  6, vga_plot=1
+X=110, Y= 62, crit= -1, vga_plot=1
+X=106, Y= 66, crit= -1, vga_plot=1
+X= 50, Y= 62, crit= -1, vga_plot=1
+X= 54, Y= 66, crit= -1, vga_plot=1
+X= 50, Y= 10, crit= -1, vga_plot=1
+X= 54, Y=  6, crit= -1, vga_plot=1
+X=110, Y= 10, crit= -1, vga_plot=1
+X=106, Y=  6, crit= -1, vga_plot=1
+X=110, Y= 63, crit= 54, vga_plot=1
+X=107, Y= 66, crit= 54, vga_plot=1
+X= 50, Y= 63, crit= 54, vga_plot=1
+X= 53, Y= 66, crit= 54, vga_plot=1
+X= 50, Y=  9, crit= 54, vga_plot=1
+X= 53, Y=  6, crit= 54, vga_plot=1
+X=110, Y=  9, crit= 54, vga_plot=1
+X=107, Y=  6, crit= 54, vga_plot=1
+X=109, Y= 64, crit= 53, vga_plot=1
+X=108, Y= 65, crit= 53, vga_plot=1
+X= 51, Y= 64, crit= 53, vga_plot=1
+X= 52, Y= 65, crit= 53, vga_plot=1
+X= 51, Y=  8, crit= 53, vga_plot=1
+X= 52, Y=  7, crit= 53, vga_plot=1
+X=109, Y=  8, crit= 53, vga_plot=1
+X=108, Y=  7, crit= 53, vga_plot=1
