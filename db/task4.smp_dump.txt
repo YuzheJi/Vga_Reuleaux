@@ -1,0 +1,46 @@
+
+State Machine - |task4|reuleaux:reuleaux|pstate
+Name pstate.110 pstate.101 pstate.100 pstate.011 pstate.010 pstate.001 pstate.000 
+pstate.000 0 0 0 0 0 0 0 
+pstate.001 0 0 0 0 0 1 1 
+pstate.010 0 0 0 0 1 0 1 
+pstate.011 0 0 0 1 0 0 1 
+pstate.100 0 0 1 0 0 0 1 
+pstate.101 0 1 0 0 0 0 1 
+pstate.110 1 0 0 0 0 0 1 
+
+State Machine - |task4|reuleaux:reuleaux|circle_t4:circle_top|pstate
+Name pstate.0111 pstate.0110 pstate.0101 pstate.0100 pstate.0011 pstate.0010 pstate.0001 pstate.0000 pstate.1010 
+pstate.0000 0 0 0 0 0 0 0 0 0 
+pstate.0001 0 0 0 0 0 0 1 1 0 
+pstate.0010 0 0 0 0 0 1 0 1 0 
+pstate.0011 0 0 0 0 1 0 0 1 0 
+pstate.0100 0 0 0 1 0 0 0 1 0 
+pstate.0101 0 0 1 0 0 0 0 1 0 
+pstate.0110 0 1 0 0 0 0 0 1 0 
+pstate.0111 1 0 0 0 0 0 0 1 0 
+pstate.1010 0 0 0 0 0 0 0 1 1 
+
+State Machine - |task4|reuleaux:reuleaux|circle_t4:circle_left|pstate
+Name pstate.0111 pstate.0110 pstate.0101 pstate.0100 pstate.0011 pstate.0010 pstate.0001 pstate.0000 pstate.1010 
+pstate.0000 0 0 0 0 0 0 0 0 0 
+pstate.0001 0 0 0 0 0 0 1 1 0 
+pstate.0010 0 0 0 0 0 1 0 1 0 
+pstate.0011 0 0 0 0 1 0 0 1 0 
+pstate.0100 0 0 0 1 0 0 0 1 0 
+pstate.0101 0 0 1 0 0 0 0 1 0 
+pstate.0110 0 1 0 0 0 0 0 1 0 
+pstate.0111 1 0 0 0 0 0 0 1 0 
+pstate.1010 0 0 0 0 0 0 0 1 1 
+
+State Machine - |task4|reuleaux:reuleaux|circle_t4:circle_right|pstate
+Name pstate.0111 pstate.0110 pstate.0101 pstate.0100 pstate.0011 pstate.0010 pstate.0001 pstate.0000 pstate.1010 
+pstate.0000 0 0 0 0 0 0 0 0 0 
+pstate.0001 0 0 0 0 0 0 1 1 0 
+pstate.0010 0 0 0 0 0 1 0 1 0 
+pstate.0011 0 0 0 0 1 0 0 1 0 
+pstate.0100 0 0 0 1 0 0 0 1 0 
+pstate.0101 0 0 1 0 0 0 0 1 0 
+pstate.0110 0 1 0 0 0 0 0 1 0 
+pstate.0111 1 0 0 0 0 0 0 1 0 
+pstate.1010 0 0 0 0 0 0 0 1 1 
