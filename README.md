@@ -1,4 +1,4 @@
-# 🧩 Reuleaux via vga
+# 🧩 Reuleaux via Vga
 
 ## Overview
 
