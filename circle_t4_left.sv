@@ -90,8 +90,7 @@ always_comb begin
      
      case(pstate)
      `s21_c: begin
-          count_enable = 1'b0;
-          done = 1'b0;
+          count_enable = 1'b0; done = 1'b0;
           vga_x = centre_x + offset_x; 
           vga_y = centre_y + offset_y; 
           if (finished == 1'b1 || start == 1'b0) vga_plot = 1'b0;
@@ -101,31 +100,28 @@ always_comb begin
           else rst_n_counter = 1'b1;
      end
      `s22_c: begin
-          count_enable = 1'b0; rst_n_counter = 1'b1;
-          done = 1'b0;
+          count_enable = 1'b0; rst_n_counter = 1'b1; done = 1'b0;
           vga_x = centre_x + offset_y; 
           vga_y = centre_y + offset_x; 
           if (centre_x + offset_y > 159 || centre_y + offset_x >119) vga_plot = 1'b0;
           else vga_plot = 1'b1;
      end
      `s27_c: begin
-          count_enable = 1'b0; rst_n_counter = 1'b1;
-          done = 1'b0;
+          count_enable = 1'b0; rst_n_counter = 1'b1; done = 1'b0;
           vga_x = centre_x + offset_x; 
           vga_y = centre_y - offset_y; 
           if (centre_x + offset_x > 159 || offset_y > centre_y) vga_plot = 1'b0;
           else vga_plot = 1'b1;
      end
      `s28_c: begin
-          count_enable = 1'b1; rst_n_counter = 1'b1;
-          done = 1'b0;
+          count_enable = 1'b1; rst_n_counter = 1'b1; done = 1'b0;
           vga_x = centre_x + offset_y; 
           vga_y = centre_y - offset_x; 
           if (centre_x + offset_y > 159 || offset_x > centre_y) vga_plot = 1'b0;
           else vga_plot = 1'b1;
      end
      `s3_c: begin
-          count_enable = 1'b0; rst_n_counter = 1'b1;
+          count_enable = 1'b0; vga_plot = 1'b0; rst_n_counter = 1'b1;
           done = 1'b1;
           vga_x = 8'bx; 
           vga_y = 7'bx; 

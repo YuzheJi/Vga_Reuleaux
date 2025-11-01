@@ -34,12 +34,11 @@ def bresenham_circle(cx, cy, r, x_min=0, x_max=159, y_min=0, y_max=119):
             crit += 2 * (offset_y - offset_x) + 1
     return [points, index]
 
-def reuleaux_triangle_to_txt(centre_x, centre_y, diameter, filename="../reuleaux_python.txt"):
+def reuleaux_triangle_to_txt(centre_x, centre_y, diameter, filename="../task4_python.txt"):
     x_min, x_max = 0, 159
     y_min, y_max = 0, 119
 
     clk_budget_reu = 0
-
     c_x, c_y = centre_x, centre_y
     c_x1 = c_x + diameter//2
     c_y1 = int(c_y + diameter * np.sqrt(3)/6)
@@ -49,7 +48,7 @@ def reuleaux_triangle_to_txt(centre_x, centre_y, diameter, filename="../reuleaux
     c_y3 = int(c_y - diameter * np.sqrt(3)/3)
 
     circles = [
-        ((c_x1, c_y1), diameter, (c_x2, c_x3), (c_y3, c_y2)),  
+        ((c_x1, c_y1), diameter, (c_x2, c_x3), (c_y3, c_y2)),
         ((c_x2, c_y2), diameter, (c_x3, c_x1), (c_y3, c_y2)),  
         ((c_x3, c_y3), diameter, (c_x2, c_x1), (c_y1, c_y3 + diameter))   
     ]
@@ -86,8 +85,8 @@ def plot_results(centre_x, centre_y, diameter):
     clk_budget = reuleaux_triangle_to_txt(centre_x, centre_y, diameter)
     matplotlib.use('Agg') 
 
-    [points1, clk] = read_points_from_txt("../reuleaux_verilog.txt")
-    [points2, hhh]= read_points_from_txt("../reuleaux_python.txt")
+    [points1, clk] = read_points_from_txt("../task4_verilog.txt")
+    [points2, hhh]= read_points_from_txt("../task4_python.txt")
 
     if points1 == points2:
         result = 1
@@ -114,9 +113,9 @@ def plot_results(centre_x, centre_y, diameter):
     ax.grid(True)
     ax.legend(fontsize=20, markerscale=2.0)
 
-    plt.savefig("./Result_reu_rtl.png")  
+    plt.savefig("./Result_task4_rtl.png")  
 
-    image_path = os.path.abspath("./Result_reu_rtl.png")
+    image_path = os.path.abspath("./Result_task4_rtl.png")
     subprocess.Popen(["start", image_path], shell=True)
     return [result, clk_budget, clk]
 
