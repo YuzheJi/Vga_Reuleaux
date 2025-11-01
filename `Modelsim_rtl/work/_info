@@ -1,0 +1,299 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Projects/Quartus/CPEN311-Lab2/task4/`Modelsim_syn
+vcircle_t4_left
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1761457951
+!i10b 1
+!s100 i5eNf<^SHiM_14AGzVX?d3
+I97lZ7WbNCOh>c]TW_^nG02
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 circle_t4_left_sv_unit
+S1
+Z3 dD:/Projects/Quartus/CPEN311-Lab2/task4/`Modelsim_rtl
+w1760633159
+8D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_left.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_left.sv
+Z4 L0 11
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1761457951.000000
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_left.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_left.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vcircle_t4_right
+R0
+R1
+!i10b 1
+!s100 23G7LPR3I5h_1mKTKj8N^0
+I]lQ[9BUc9SJR4X0dN>mFY3
+R2
+!s105 circle_t4_right_sv_unit
+S1
+R3
+w1760046782
+8D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_right.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_right.sv
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_right.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_right.sv|
+!i113 1
+R7
+R8
+vcircle_t4_top
+R0
+R1
+!i10b 1
+!s100 9fgOhc9FgoD^D9XRnTTc_0
+I>OWiKSaK`zghC?K[[GUaC2
+R2
+!s105 circle_t4_top_sv_unit
+S1
+R3
+w1760045757
+8D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_top.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_top.sv
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_top.sv|
+!i113 1
+R7
+R8
+vonecolor_t4
+R0
+R1
+!i10b 1
+!s100 5@VS52LTZV_@0S[_AhQ=e0
+IDAmd0CQJc__Ek6YMP6^NQ2
+R2
+!s105 onecolor_t4_sv_unit
+S1
+R3
+w1759819598
+8D:/Projects/Quartus/CPEN311-Lab2/task4/onecolor_t4.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/onecolor_t4.sv
+L0 5
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/onecolor_t4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/onecolor_t4.sv|
+!i113 1
+R7
+R8
+vreuleaux
+R0
+Z9 !s110 1761457952
+!i10b 1
+!s100 EKKWKla`jJFAo<A6SBC6L1
+IlFnjHG?T_Ra48Tc=PX4>k1
+R2
+!s105 reuleaux_sv_unit
+S1
+R3
+w1761454755
+8D:/Projects/Quartus/CPEN311-Lab2/task4/reuleaux.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/reuleaux.sv
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1761457952.000000
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/reuleaux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/reuleaux.sv|
+!i113 1
+R7
+R8
+vtask4
+R0
+R9
+!i10b 1
+!s100 aR4ZLlGI7X3YKUz7ZH^c83
+Im_cbPgL[zhN?_VQzeNJna3
+R2
+!s105 task4_sv_unit
+S1
+R3
+w1761334404
+8D:/Projects/Quartus/CPEN311-Lab2/task4/task4.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/task4.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/task4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/task4.sv|
+!i113 1
+R7
+R8
+vtb_rtl_reuleaux
+R0
+R9
+!i10b 1
+!s100 bUeJSd`fjh@8E;mWmiBod3
+ICCHiCDY8QLJh5?lfd4;9k3
+R2
+!s105 tb_rtl_reuleaux_sv_unit
+S1
+R3
+w1761333922
+8D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_reuleaux.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_reuleaux.sv
+L0 10
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_reuleaux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_reuleaux.sv|
+!i113 1
+R7
+R8
+vtb_rtl_task4
+R0
+R9
+!i10b 1
+!s100 0ETHU>mLb<6n]EZGHE8@>1
+IRQ74[d4AEDSDiFBe7L2EU2
+R2
+!s105 tb_rtl_task4_sv_unit
+S1
+R3
+w1761340584
+8D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_task4.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_task4.sv
+L0 9
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_task4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_task4.sv|
+!i113 1
+R7
+R8
+vvga_adapter
+R0
+DXx6 sv_std 7 mti_fli 0 22 N`967G9WZ3=6fdOR5MX]S1
+R9
+!i10b 1
+!s100 h8aB6A^ia_odOh=<4`Ka>0
+I4VC24@9MTcJ;C;OK<503f3
+R2
+!s105 vga_adapter_sv_unit
+S1
+R3
+Z11 w1758834928
+8D:/Projects/Quartus/CPEN311-Lab2/task4/vga_adapter.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/vga_adapter.sv
+L0 82
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/vga_adapter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/vga_adapter.sv|
+!i113 1
+R7
+R8
+vvga_address_translator
+R0
+R9
+!i10b 1
+!s100 >4Ck2[^7MRo410`;`mBhG0
+I:7Xgg;M8>l=43@EFXkd:z3
+R2
+!s105 vga_address_translator_sv_unit
+S1
+R3
+R11
+8D:/Projects/Quartus/CPEN311-Lab2/task4/vga_address_translator.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/vga_address_translator.sv
+L0 8
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/vga_address_translator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/vga_address_translator.sv|
+!i113 1
+R7
+R8
+vvga_controller
+R0
+R9
+!i10b 1
+!s100 K^Z0JG9FjLR6T71PJVY]`2
+ID]M<l=7ci[7^4hFUPZBnW2
+R2
+!s105 vga_controller_sv_unit
+S1
+R3
+R11
+8D:/Projects/Quartus/CPEN311-Lab2/task4/vga_controller.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/vga_controller.sv
+L0 13
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/vga_controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/vga_controller.sv|
+!i113 1
+R7
+R8
+vvga_pll
+R0
+R1
+!i10b 1
+!s100 B@RTRAe2BCUY;gLZj0kH`3
+I]jdc?a=7JbE^jg_o=mCLE0
+R2
+!s105 vga_pll_sv_unit
+S1
+R3
+R11
+8D:/Projects/Quartus/CPEN311-Lab2/task4/vga_pll.sv
+FD:/Projects/Quartus/CPEN311-Lab2/task4/vga_pll.sv
+L0 36
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Projects/Quartus/CPEN311-Lab2/task4/vga_pll.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Projects/Quartus/CPEN311-Lab2/task4/vga_pll.sv|
+!i113 1
+R7
+R8

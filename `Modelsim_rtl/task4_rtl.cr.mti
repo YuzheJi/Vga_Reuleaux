@@ -1,0 +1,85 @@
+D:/Projects/Quartus/CPEN311-Lab2/task4/reuleaux.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/reuleaux.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reuleaux
+
+Top level modules:
+	reuleaux
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_left.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_left.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module circle_t4_left
+
+Top level modules:
+	circle_t4_left
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_top.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_top.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module circle_t4_top
+
+Top level modules:
+	circle_t4_top
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/vga_address_translator.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/vga_address_translator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_address_translator
+
+Top level modules:
+	vga_address_translator
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/vga_pll.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/vga_pll.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_pll
+
+Top level modules:
+	vga_pll
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_right.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/circle_t4_right.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module circle_t4_right
+
+Top level modules:
+	circle_t4_right
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/task4.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/task4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task4
+
+Top level modules:
+	task4
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/onecolor_t4.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/onecolor_t4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module onecolor_t4
+
+Top level modules:
+	onecolor_t4
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_reuleaux.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_reuleaux.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_rtl_reuleaux
+
+Top level modules:
+	tb_rtl_reuleaux
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/vga_controller.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/vga_controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_controller
+
+Top level modules:
+	vga_controller
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_task4.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/tb_rtl_task4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_rtl_task4
+
+Top level modules:
+	tb_rtl_task4
+
+} {} {}} D:/Projects/Quartus/CPEN311-Lab2/task4/vga_adapter.sv {1 {vlog -work work -sv -stats=none D:/Projects/Quartus/CPEN311-Lab2/task4/vga_adapter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vga_adapter
+
+Top level modules:
+	vga_adapter
+
+} {} {}}
