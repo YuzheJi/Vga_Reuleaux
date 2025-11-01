@@ -15,7 +15,7 @@ logic vga_plot;
 logic done;   
 // instantiate and connect the VGA adapter and your module
 reuleaux reuleaux (.clk(CLOCK_50), .rst_n(KEY[3]), .colour(3'b010),
-               .centre_x(8'd80), .centre_y(7'd60), .diameter(8'd40),
+               .centre_x(8'd30), .centre_y(7'd20), .diameter(8'd80),
                .start(1'b1), .done(done), .vga_x(vga_x), .vga_y(vga_y),
                .vga_colour(vga_colour), .vga_plot(vga_plot));
 

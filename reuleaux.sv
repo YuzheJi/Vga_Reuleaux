@@ -5,6 +5,7 @@
 `define s4_t 3'b100      // left state: start_left = 1, left is drawn
 `define s5_t 3'b101      // top state: start_top = 1, top is drawn
 `define s6_t 3'b110      // done state: done = 1, if start = 0 goes to s0_t
+
 `define sw 3
 
 module reuleaux(input logic clk, input logic rst_n, input logic [2:0] colour,
@@ -52,7 +53,7 @@ always_comb begin
      centre_y_right = ((centre_y_str << 19) + temp) >> 19;
      
      left_ovf = (diameter_half > centre_x_str);
-     centre_x_left = top_ovf? (centre_x_str << 1) - (diameter_half) << 1 + 1: centre_x_str - diameter_half;
+     centre_x_left = left_ovf? ((centre_x_str << 1) - (diameter_half << 1) + 1) >> 1: centre_x_str - diameter_half;
      centre_y_left = ((centre_y_str << 19) + temp) >> 19;
      
      top_ovf = (temp > (centre_y_str << 18));
@@ -141,57 +142,65 @@ circle_t4_top circle_top(.clk(clk), .rst_n(rst_n_machines), .colour(colour),
 logic clear_sel, right_sel, left_sel, top_sel;
 always_comb begin
      
-     if({clear_sel, right_sel, left_sel, top_sel} == 4'b1000)begin
+     case({clear_sel, right_sel, left_sel, top_sel})
+     4'b1000: begin
           vga_x = vga_x_clear;
           vga_y = vga_y_clear;
           vga_colour = vga_colour_clear;
      end
-     else if({clear_sel, right_sel, left_sel, top_sel} == 4'b0100)begin
+     4'b0100: begin
           vga_x = vga_x_right;
           vga_y = vga_y_right;
           vga_colour = vga_colour_right;
      end
-     else if({clear_sel, right_sel, left_sel, top_sel} == 4'b0010)begin
+     4'b0010: begin
           vga_x = vga_x_left;
           vga_y = vga_y_left;
           vga_colour = vga_colour_left;
      end
-     else if({clear_sel, right_sel, left_sel, top_sel} == 4'b0001)begin
+     4'b0001: begin
           vga_x = vga_x_top;
           vga_y = vga_y_top;
           vga_colour = vga_colour_top;
      end
-     else begin
-          vga_x = 8'bx;
-          vga_y = 7'bx;
-          vga_colour = 3'bx;
+     4'b1111: begin
+          vga_x = 8'd0;
+          vga_y = 7'd0; 
      end
+     default: begin
+          vga_x = 8'b0;
+          vga_y = 7'b0;
+          vga_colour = 3'b0;
+     end
+     endcase
 end
 
 // vga_plot MUX
 always_comb begin
      
-     if({clear_sel, right_sel, left_sel, top_sel} == 4'b1000)begin
+     case({clear_sel, right_sel, left_sel, top_sel})
+     4'b1000: begin
           vga_plot = (vga_plot_clear==1'b1)? 1'b1: 1'b0;
      end
-     else if({clear_sel, right_sel, left_sel, top_sel} == 4'b0100)begin
-          vga_plot = (
+     4'b0100: begin
+          vga_plot = ( vga_x_right < 160 && vga_y_right < 120 &&
           vga_x_right >= x_min_right && vga_x_right <= x_max_right &&
           vga_y_right >= y_min_right && vga_y_right <= y_max_right)? 1'b1: 1'b0;
      end
-     else if({clear_sel, right_sel, left_sel, top_sel} == 4'b0010)begin
-          vga_plot = (
+     4'b0010: begin
+          vga_plot = ( vga_x_left < 160 && vga_y_left < 120 &&
           vga_x_left >= x_min_left && vga_x_left <= x_max_left &&
           vga_y_left >= y_min_left && vga_y_left <= y_max_left)? 1'b1: 1'b0;
      end
-     else if({clear_sel, right_sel, left_sel, top_sel} == 4'b0001)begin
-          vga_plot = (
+     4'b0001: begin
+          vga_plot = ( vga_x_top < 160 && vga_y_top < 120 &&
           vga_x_top >= x_min_top && vga_x_top <= x_max_top &&
           vga_y_top >= y_min_top && vga_y_top <= y_max_top)? 1'b1: 1'b0;
      end
-     else begin
-          vga_plot = 1'bx;
+     default: begin
+          vga_plot = 1'b0;
      end
+     endcase  
 end
 
 // statemachine that controls the four blocks
@@ -240,7 +249,7 @@ always_comb begin
           if(start == 1'b0) nstate = `s0_t;
           else nstate = `s6_t;
      end
-     default: nstate = 3'bx;
+     default: nstate = `s0_t;
      endcase
 end
 
@@ -286,14 +295,14 @@ always_comb begin
      `s6_t: begin
           load_all = 1'b0; rst_n_machines = 1'b0; 
           start_clear = 1'b0; start_right = 1'b0; start_left = 1'b0; start_top = 1'b0; 
-          clear_sel = 1'b0; right_sel = 1'b0; left_sel = 1'b0; top_sel = 1'b0;
+          clear_sel = 1'b1; right_sel = 1'b1; left_sel = 1'b1; top_sel = 1'b1;
           done = 1'b1;
      end
      default: begin
-          load_all = 1'bx; rst_n_machines = 1'bx; 
-          start_clear = 1'bx; start_right = 1'bx; start_left = 1'bx; start_top = 1'bx; 
-          clear_sel = 1'bx; right_sel = 1'bx; left_sel = 1'bx; top_sel = 1'bx;
-          done = 1'bx;
+          load_all = 1'b0; rst_n_machines = 1'b0; 
+          start_clear = 1'b0; start_right = 1'b0; start_left = 1'b0; start_top = 1'b0; 
+          clear_sel = 1'b0; right_sel = 1'b0; left_sel = 1'b0; top_sel = 1'b0;
+          done = 1'b0;
      end
      endcase
 end
